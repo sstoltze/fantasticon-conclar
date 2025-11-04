@@ -16,8 +16,8 @@
       "Origin": "http://example.com"
     }
   },
-  "TIMEZONE": "Europe/Dublin",
-  "TIMEZONECODE": "IST",
+  "TIMEZONE": "Europe/Copenhagen",
+  "TIMEZONECODE": "CET",
   "INTERACTIVE": true,
   "HEADER": {
     "IMG_SRC": "",
@@ -30,7 +30,7 @@
     "MYSCHEDULE": "My Schedule",
     "INFO": "Information",
     "SETTINGS": "Settings",
-    "EXTRA": [{ "LABEL": "Octocon Home", "URL": "https://octocon.com" }]
+    "EXTRA": [{ "LABEL": "Fantasticon", "URL": "https://fantasticon.dk/" }]
   },
   "HELP_TEXT": {
     "WELCOME": "Welcome to ConClár. You can use the checkboxes next to programme items to make a personal schedule. You can view this on the My Schedule page, and share to other devices.",
