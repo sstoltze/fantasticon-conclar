@@ -23,7 +23,7 @@
       devShells = forEachSystem (
         { pkgs, ... }:
         {
-          default = pkgs.mkShell { packages = with pkgs; [ nodejs ]; };
+          default = pkgs.mkShell { packages = with pkgs; [ nodejs racket ]; };
         }
       );
     };
