@@ -4,15 +4,13 @@
 (define tidsplan (csv->list (open-input-file "tidsplan.csv")))
 
 (define-values (lokaler plan) (match tidsplan
-                  [(list lokaler plan ...) (values lokaler plan)]))
+                                [(list lokaler plan ...) (values (rest lokaler) plan)]))
 
-(displayln lokaler)
 (foldl (lambda (tidspunkt acc)
             (match tidspunkt
-              [(list dag "" ...) (displayln dag)]
-              [(list tid program ...) (displayln tid)
-                                      (println program)]))
-       '()
+              [(list dag "" ...) #:when (member dag (list "Lørdag" "Søndag")) (list dag (second acc))]
+              [(list tid program ...)
+               (list (first acc)
+                     (append (map (lambda (p r) (list (first acc) tid r p)) program lokaler) (second acc)))]))
+       '("" ())
        plan)
-
-;; (display tidsplan)
