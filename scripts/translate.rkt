@@ -1,16 +1,44 @@
 #lang racket
 (require csv-reading)
+(require json)
 
 (define tidsplan (csv->list (open-input-file "tidsplan.csv")))
 
 (define-values (lokaler plan) (match tidsplan
                                 [(list lokaler plan ...) (values (rest lokaler) plan)]))
 
-(foldl (lambda (tidspunkt acc)
-            (match tidspunkt
-              [(list dag "" ...) #:when (member dag (list "Lørdag" "Søndag")) (list dag (second acc))]
-              [(list tid program ...)
-               (list (first acc)
-                     (append (map (lambda (p r) (list (first acc) tid r p)) program lokaler) (second acc)))]))
-       '("" ())
-       plan)
+(define (translate-time tid)
+  (if (eq? tid "")
+      ""
+      (string-append (substring tid 0 2) ":00")))
+
+(define p (filter
+           (lambda (item) (not (eq? (hash-ref item 'title) "")))
+           (second
+                   (foldl (lambda (tidspunkt acc)
+                            (match tidspunkt
+                              [(list dag "" ...) #:when (member dag (list "Lørdag" "Søndag"))
+                                                 (define dato (cond [(string=? dag "Lørdag") "2026-06-06"]
+                                                             [else "2026-06-07"]))
+                                                 (list dato (second acc))]
+                              [(list tid program ...)
+                               (list (first acc)
+                                     (append (map (lambda (p r)
+                                                    (hasheq
+                                                     'id (~v (random 100000))
+                                                     'date (first acc)
+                                                     'time (translate-time tid)
+                                                     'mins "45"
+                                                     'title p
+                                                     'loc (list r)
+                                                     'tags (list)
+                                                     'people (list)))
+                                                  program
+                                                  lokaler)
+                                             (second acc)))]))
+                          '("" ())
+                          plan))))
+
+
+(with-output-to-file "program.js" #:exists 'replace
+  (lambda () (write-json p #:indent 2)))
