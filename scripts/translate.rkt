@@ -17,8 +17,10 @@
            (second
                    (foldl (lambda (tidspunkt acc)
                             (match tidspunkt
-                              [(list dag "" ...) #:when (member dag (list "Lørdag" "Søndag"))
-                                                 (define dato (cond [(string=? dag "Lørdag") "2026-06-06"]
+                              [(list dag "" ...) #:when (member (string-trim dag) (list "Fredag" "Lørdag" "Søndag"))
+                                                 (define dato (cond
+                                                                [(string=? dag "Fredag") "2026-06-05"]
+                                                                [(string=? dag "Lørdag") "2026-06-06"]
                                                              [else "2026-06-07"]))
                                                  (list dato (second acc))]
                               [(list tid program ...)

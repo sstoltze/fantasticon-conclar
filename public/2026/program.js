@@ -1,9 +1,9 @@
 [
   {
     "date": "2026-06-07",
-    "id": "78831",
+    "id": "16718",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -13,9 +13,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "98575",
+    "id": "13315",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -25,9 +25,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "70219",
+    "id": "61080",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -37,9 +37,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "37341",
+    "id": "25646",
     "loc": [
-      "Mødelokale 2. sal"
+      "Mødelokale (2. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -49,9 +49,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "21765",
+    "id": "76908",
     "loc": [
-      "Mødelokale stuen"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -61,7 +61,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "99347",
+    "id": "79028",
     "loc": [
       "Biblioteket"
     ],
@@ -73,7 +73,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "38516",
+    "id": "2759",
     "loc": [
       "Cafe"
     ],
@@ -85,9 +85,21 @@
   },
   {
     "date": "2026-06-07",
-    "id": "13198",
+    "id": "57726",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
+    "title": "Ask me anything - GoH"
+  },
+  {
+    "date": "2026-06-07",
+    "id": "75863",
+    "loc": [
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -97,21 +109,33 @@
   },
   {
     "date": "2026-06-07",
-    "id": "16065",
+    "id": "71396",
     "loc": [
-      "Store sal 3. sal"
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "14:00",
+    "title": "European Fantastical litterature - what is happening"
+  },
+  {
+    "date": "2026-06-07",
+    "id": "71079",
+    "loc": [
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "13:00",
-    "title": "Interview med Chris Beckett"
+    "title": "Interview with Chris Beckett"
   },
   {
     "date": "2026-06-07",
-    "id": "63734",
+    "id": "63340",
     "loc": [
-      "Mødelokale stuen"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -121,9 +145,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "20813",
+    "id": "71591",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -133,9 +157,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "34462",
+    "id": "39599",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -145,9 +169,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "30824",
+    "id": "48800",
     "loc": [
-      "Mødelokale 2. sal"
+      "Mødelokale (2. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -157,9 +181,9 @@
   },
   {
     "date": "2026-06-07",
-    "id": "18109",
+    "id": "42432",
     "loc": [
-      "Mødelokale stuen"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -169,33 +193,33 @@
   },
   {
     "date": "2026-06-07",
-    "id": "72072",
+    "id": "68078",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Kinesisk fantasy (måske Queer kineisisk fantasy)"
+    "title": "Kinesisk fantasy (måske queer kinesisk fantasy?)\n"
   },
   {
     "date": "2026-06-07",
-    "id": "85464",
+    "id": "41901",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Foredrag Kim Escherich - The White Man"
+    "title": "Vi ❤️ Science fiction"
   },
   {
     "date": "2026-06-07",
-    "id": "75984",
+    "id": "15692",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -205,19 +229,19 @@
   },
   {
     "date": "2026-06-07",
-    "id": "69877",
+    "id": "78095",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "10:00",
-    "title": "Vi ❤️ Science fiction"
+    "title": "Foredrag Kim Escherich - The White Man"
   },
   {
     "date": "2026-06-07",
-    "id": "49409",
+    "id": "87104",
     "loc": [
       "Cafe"
     ],
@@ -225,13 +249,13 @@
     "people": [],
     "tags": [],
     "time": "10:00",
-    "title": "QUIZ (lyd)"
+    "title": "Quiz"
   },
   {
     "date": "2026-06-07",
-    "id": "17007",
+    "id": "42625",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -241,9 +265,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "81849",
+    "id": "93525",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -253,9 +277,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "50217",
+    "id": "28405",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -265,9 +289,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "21551",
+    "id": "17407",
     "loc": [
-      "Mødelokale 2. sal"
+      "Mødelokale (2. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -277,9 +301,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "18213",
+    "id": "16111",
     "loc": [
-      "Mødelokale stuen"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -289,9 +313,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "14939",
+    "id": "68269",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -301,9 +325,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "91727",
+    "id": "88485",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -313,9 +337,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "28927",
+    "id": "69341",
     "loc": [
-      "Mødelokale 2. sal"
+      "Mødelokale (2. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -325,9 +349,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "58669",
+    "id": "65020",
     "loc": [
-      "Mødelokale stuen"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -337,9 +361,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "72970",
+    "id": "53277",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -349,57 +373,81 @@
   },
   {
     "date": "2026-06-06",
-    "id": "43783",
+    "id": "83638",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "16:00",
+    "title": "Vi ❤️ Fantasy"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "39249",
+    "loc": [
+      "Store sal (3. sal)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
+    "title": "Interview with Sarah Pinsker"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "42230",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
     "title": "Arthurmyterne i litteraturen "
   },
   {
     "date": "2026-06-06",
-    "id": "50208",
+    "id": "51035",
     "loc": [
-      "Store sal 3. sal"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "15:00",
-    "title": "Interview med Sarah Pinsker"
-  },
-  {
-    "date": "2026-06-06",
-    "id": "42313",
-    "loc": [
-      "Lille sal Stuen"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "15:00",
-    "title": "Vi🫀Horror"
-  },
-  {
-    "date": "2026-06-06",
-    "id": "45454",
-    "loc": [
-      "Lille sal Stuen"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "14:00",
-    "title": "Tamora Pierces forfatterskab"
+    "title": "Samtale om oversættelse af Fantatisk litteratur"
   },
   {
     "date": "2026-06-06",
-    "id": "3418",
+    "id": "11184",
     "loc": [
-      "Store sal 3. sal"
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "14:00",
+    "title": "Vi🫀Horror"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "75617",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "14:00",
+    "title": "SFC novellesamling"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "72775",
+    "loc": [
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -409,9 +457,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "22718",
+    "id": "5023",
     "loc": [
-      "Lille sal Stuen"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -421,9 +469,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "98939",
+    "id": "36164",
     "loc": [
-      "Mødelokale stuen"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -433,21 +481,33 @@
   },
   {
     "date": "2026-06-06",
-    "id": "67868",
+    "id": "53722",
     "loc": [
-      "Store sal 3. sal"
+      "Biblioteket"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "13:00",
+    "title": "SFC novellesamling"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "33175",
+    "loc": [
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "Interview med Eugenia T"
+    "title": "Interview with Eugenia T"
   },
   {
     "date": "2026-06-06",
-    "id": "78950",
+    "id": "1101",
     "loc": [
-      "Mødelokale 2. sal"
+      "Mødelokale (2. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -457,21 +517,45 @@
   },
   {
     "date": "2026-06-06",
-    "id": "38155",
+    "id": "39708",
     "loc": [
-      "Lille sal Stuen"
+      "Biblioteket"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "12:00",
+    "title": "SFC oplæsning"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "17152",
+    "loc": [
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Vi ❤️ Fantasy"
+    "title": "Tamora Pierces forfatterskab"
   },
   {
     "date": "2026-06-06",
-    "id": "97409",
+    "id": "34235",
     "loc": [
-      "Mødelokale stuen"
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "11:00",
+    "title": "SFCs Årsantologi forfattermøde"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "9682",
+    "loc": [
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -481,9 +565,9 @@
   },
   {
     "date": "2026-06-06",
-    "id": "21171",
+    "id": "33431",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -493,14 +577,38 @@
   },
   {
     "date": "2026-06-06",
-    "id": "70616",
+    "id": "92201",
     "loc": [
-      "Store sal 3. sal"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "09:00",
+    "title": "Dørene åbner"
+  },
+  {
+    "date": "2026-06-05",
+    "id": "31030",
+    "loc": [
+      "Cafe"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "16:00",
+    "title": "Meet 'n' greet"
+  },
+  {
+    "date": "2026-06-05",
+    "id": "79963",
+    "loc": [
+      "Cafe"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
     "title": "Dørene åbner"
   }
 ]
