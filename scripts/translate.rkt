@@ -40,5 +40,5 @@
                           plan))))
 
 
-(with-output-to-file "program.js" #:exists 'replace
+(with-output-to-file "../public/2026/program.js" #:exists 'replace
   (lambda () (write-json p #:indent 2)))
