@@ -13,7 +13,7 @@
       (string-append (substring tid 0 2) ":00")))
 
 (define p (filter
-           (lambda (item) (not (eq? (hash-ref item 'title) "")))
+           (lambda (item) (not (string=? (string-trim (hash-ref item 'title)) "")))
            (second
                    (foldl (lambda (tidspunkt acc)
                             (match tidspunkt
