@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-06-07",
-    "id": "16718",
+    "id": "72405",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -13,7 +13,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "13315",
+    "id": "23983",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -25,7 +25,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "61080",
+    "id": "15641",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -37,7 +37,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "25646",
+    "id": "37586",
     "loc": [
       "Mødelokale (2. sal)"
     ],
@@ -49,7 +49,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "76908",
+    "id": "81561",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -61,7 +61,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "79028",
+    "id": "58119",
     "loc": [
       "Biblioteket"
     ],
@@ -73,7 +73,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "2759",
+    "id": "84142",
     "loc": [
       "Cafe"
     ],
@@ -85,7 +85,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "57726",
+    "id": "35209",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -93,11 +93,23 @@
     "people": [],
     "tags": [],
     "time": "15:00",
-    "title": "Ask me anything - GoH"
+    "title": "Ask me anything with the Guest of Honours"
   },
   {
     "date": "2026-06-07",
-    "id": "75863",
+    "id": "71745",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
+    "title": " N. B. - Epik & musik. "
+  },
+  {
+    "date": "2026-06-07",
+    "id": "30490",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -109,7 +121,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "71396",
+    "id": "47830",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -117,11 +129,11 @@
     "people": [],
     "tags": [],
     "time": "14:00",
-    "title": "European Fantastical litterature - what is happening"
+    "title": "Mundane Science Fiction"
   },
   {
     "date": "2026-06-07",
-    "id": "71079",
+    "id": "50293",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -129,11 +141,23 @@
     "people": [],
     "tags": [],
     "time": "13:00",
-    "title": "Interview with Chris Beckett"
+    "title": "Interview with Chris Beckett med Flemming Rasch"
   },
   {
     "date": "2026-06-07",
-    "id": "63340",
+    "id": "97972",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "13:00",
+    "title": "State of the Union: European Fantastical Litterature"
+  },
+  {
+    "date": "2026-06-07",
+    "id": "33674",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -141,13 +165,25 @@
     "people": [],
     "tags": [],
     "time": "13:00",
-    "title": "Workshop: Reading Journals"
+    "title": "kaffe med en Sarah Pinsker"
   },
   {
     "date": "2026-06-07",
-    "id": "71591",
+    "id": "41840",
     "loc": [
       "Store sal (3. sal)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "12:00",
+    "title": "On Writing Romantasy"
+  },
+  {
+    "date": "2026-06-07",
+    "id": "6501",
+    "loc": [
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -157,31 +193,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "39599",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "12:00",
-    "title": "On writing romantasy"
-  },
-  {
-    "date": "2026-06-07",
-    "id": "48800",
-    "loc": [
-      "Mødelokale (2. sal)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "12:00",
-    "title": "kaffe med en gæst"
-  },
-  {
-    "date": "2026-06-07",
-    "id": "42432",
+    "id": "47418",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -189,11 +201,11 @@
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "kaffe med en gæst"
+    "title": "kaffe med en Eugenia T"
   },
   {
     "date": "2026-06-07",
-    "id": "68078",
+    "id": "71013",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -201,11 +213,11 @@
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Kinesisk fantasy (måske queer kinesisk fantasy?)\n"
+    "title": "We ❤️ Science fiction"
   },
   {
     "date": "2026-06-07",
-    "id": "41901",
+    "id": "60048",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -213,11 +225,23 @@
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Vi ❤️ Science fiction"
+    "title": "Kinesisk fantasy"
   },
   {
     "date": "2026-06-07",
-    "id": "15692",
+    "id": "82780",
+    "loc": [
+      "Mødelokale (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "11:00",
+    "title": "Workshop: Reading Journals"
+  },
+  {
+    "date": "2026-06-07",
+    "id": "2047",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -225,11 +249,11 @@
     "people": [],
     "tags": [],
     "time": "10:00",
-    "title": "Adaptations - fra bog til film, tegneserier til film, podcast til film"
+    "title": "De hugo-nominerede 2026"
   },
   {
     "date": "2026-06-07",
-    "id": "78095",
+    "id": "98177",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -237,11 +261,11 @@
     "people": [],
     "tags": [],
     "time": "10:00",
-    "title": "Foredrag Kim Escherich - The White Man"
+    "title": "Adaptations - from media to another "
   },
   {
     "date": "2026-06-07",
-    "id": "87104",
+    "id": "76601",
     "loc": [
       "Cafe"
     ],
@@ -253,7 +277,7 @@
   },
   {
     "date": "2026-06-07",
-    "id": "42625",
+    "id": "94525",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -265,7 +289,19 @@
   },
   {
     "date": "2026-06-06",
-    "id": "93525",
+    "id": "87965",
+    "loc": [
+      "Store sal (3. sal)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "19:00",
+    "title": "Restaurant MOAB"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "25079",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -273,11 +309,11 @@
     "people": [],
     "tags": [],
     "time": "18:00",
-    "title": "Auktion (Klaus Æ Mogensen)"
+    "title": "Marry A Witch (Multimedie)"
   },
   {
     "date": "2026-06-06",
-    "id": "28405",
+    "id": "38066",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -289,7 +325,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "17407",
+    "id": "39914",
     "loc": [
       "Mødelokale (2. sal)"
     ],
@@ -301,7 +337,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "16111",
+    "id": "43233",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -313,7 +349,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "68269",
+    "id": "19818",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -321,11 +357,11 @@
     "people": [],
     "tags": [],
     "time": "17:00",
-    "title": "Auktion (Klaus Æ Mogensen)"
+    "title": "Marry A Witch (Multimedie)"
   },
   {
     "date": "2026-06-06",
-    "id": "88485",
+    "id": "7605",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -337,7 +373,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "69341",
+    "id": "27343",
     "loc": [
       "Mødelokale (2. sal)"
     ],
@@ -349,7 +385,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "65020",
+    "id": "23177",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -361,7 +397,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "53277",
+    "id": "20578",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -369,11 +405,11 @@
     "people": [],
     "tags": [],
     "time": "16:00",
-    "title": "\"Love, Power, Sex, and Addiction in the writings of Octavia E. Butler\""
+    "title": "Auktion (Klaus Æ Mogensen)"
   },
   {
     "date": "2026-06-06",
-    "id": "83638",
+    "id": "13483",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -381,11 +417,23 @@
     "people": [],
     "tags": [],
     "time": "16:00",
-    "title": "Vi ❤️ Fantasy"
+    "title": "We ❤️ Fantasy"
   },
   {
     "date": "2026-06-06",
-    "id": "39249",
+    "id": "54836",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "16:00",
+    "title": "Præsentation af årsantologien Planlagt Forældelse ved Redaktør Rene og udvalgte forfattere (langt slot)"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "90051",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -393,11 +441,11 @@
     "people": [],
     "tags": [],
     "time": "15:00",
-    "title": "Interview with Sarah Pinsker"
+    "title": "Interview with Sarah Pinsker med Niels Dalgaard"
   },
   {
     "date": "2026-06-06",
-    "id": "42230",
+    "id": "83278",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -405,11 +453,35 @@
     "people": [],
     "tags": [],
     "time": "15:00",
-    "title": "Arthurmyterne i litteraturen "
+    "title": " Samtale om oversættelse af Fantatisk litteratur"
   },
   {
     "date": "2026-06-06",
-    "id": "51035",
+    "id": "84120",
+    "loc": [
+      "Mødelokale (2. sal)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
+    "title": "Speeddate en bog"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "24729",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
+    "title": "High-Fidelphias novellesamling - Cato"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "82050",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -417,11 +489,11 @@
     "people": [],
     "tags": [],
     "time": "14:00",
-    "title": "Samtale om oversættelse af Fantatisk litteratur"
+    "title": "Arthurmyterne i litteraturen "
   },
   {
     "date": "2026-06-06",
-    "id": "11184",
+    "id": "73214",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -433,7 +505,19 @@
   },
   {
     "date": "2026-06-06",
-    "id": "75617",
+    "id": "8082",
+    "loc": [
+      "Mødelokale (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "14:00",
+    "title": "Kaffe med Chris Beckett"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "97706",
     "loc": [
       "Biblioteket"
     ],
@@ -441,11 +525,11 @@
     "people": [],
     "tags": [],
     "time": "14:00",
-    "title": "SFC novellesamling"
+    "title": "Fjerde oplag af Fluffy - hvorfor er katte i SF så populære? (Lise og Niels)"
   },
   {
     "date": "2026-06-06",
-    "id": "72775",
+    "id": "56018",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -453,11 +537,11 @@
     "people": [],
     "tags": [],
     "time": "13:00",
-    "title": "De hugo-nominerede 2026"
+    "title": "Worldbuilding in Short Fiction (GoH)"
   },
   {
     "date": "2026-06-06",
-    "id": "5023",
+    "id": "47977",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -469,19 +553,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "36164",
-    "loc": [
-      "Mødelokale (Stuen)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "13:00",
-    "title": "kaffe med en gæst"
-  },
-  {
-    "date": "2026-06-06",
-    "id": "53722",
+    "id": "5252",
     "loc": [
       "Biblioteket"
     ],
@@ -489,11 +561,11 @@
     "people": [],
     "tags": [],
     "time": "13:00",
-    "title": "SFC novellesamling"
+    "title": "Knud Larn interviewer Jasmin Hansens novellesamling BREVET"
   },
   {
     "date": "2026-06-06",
-    "id": "33175",
+    "id": "51213",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -501,23 +573,23 @@
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "Interview with Eugenia T"
+    "title": "Interview with Eugenia T med Tobias"
   },
   {
     "date": "2026-06-06",
-    "id": "1101",
+    "id": "70477",
     "loc": [
-      "Mødelokale (2. sal)"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "Speeddate en bog"
+    "title": "Tamora Pierces forfatterskab "
   },
   {
     "date": "2026-06-06",
-    "id": "39708",
+    "id": "79631",
     "loc": [
       "Biblioteket"
     ],
@@ -525,11 +597,11 @@
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "SFC oplæsning"
+    "title": "Niels præsenterer antologien Ukendte Kræfter"
   },
   {
     "date": "2026-06-06",
-    "id": "17152",
+    "id": "90829",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -537,11 +609,11 @@
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Tamora Pierces forfatterskab"
+    "title": "Octavia E. Butler: Love, Power, Sex, and Addiction"
   },
   {
     "date": "2026-06-06",
-    "id": "34235",
+    "id": "4856",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -549,11 +621,11 @@
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "SFCs Årsantologi forfattermøde"
+    "title": "Tekstskrivning, processer, kreativitet og inspirationer."
   },
   {
     "date": "2026-06-06",
-    "id": "9682",
+    "id": "45501",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -565,7 +637,19 @@
   },
   {
     "date": "2026-06-06",
-    "id": "33431",
+    "id": "5275",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "11:00",
+    "title": "Niels E Nielsens noveller - hans comeback? Nu i andet oplag... (Niels)"
+  },
+  {
+    "date": "2026-06-06",
+    "id": "48743",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -577,7 +661,7 @@
   },
   {
     "date": "2026-06-06",
-    "id": "92201",
+    "id": "16042",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -589,7 +673,7 @@
   },
   {
     "date": "2026-06-05",
-    "id": "31030",
+    "id": "29885",
     "loc": [
       "Cafe"
     ],
@@ -601,7 +685,7 @@
   },
   {
     "date": "2026-06-05",
-    "id": "79963",
+    "id": "94396",
     "loc": [
       "Cafe"
     ],
