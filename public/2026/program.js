@@ -115,15 +115,24 @@
     "date": "2026-06-07",
     "desc": "",
     "format": "",
-    "id": " N. B. - Epik & musik. ",
+    "id": "N. B. - Epik & musik.",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Nanna Grønbech Petersen",
+        "name": "Nanna Grønbech Petersen"
+      },
+      {
+        "id": "bÆnji",
+        "name": "bÆnji"
+      }
+    ],
     "tags": [],
     "time": "15:00",
-    "title": " N. B. - Epik & musik. "
+    "title": "N. B. - Epik & musik."
   },
   {
     "date": "2026-06-07",
@@ -363,7 +372,7 @@
     "date": "2026-06-07",
     "desc": "",
     "format": "",
-    "id": "Adaptations - from media to another ",
+    "id": "Adaptations - from media to another",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -371,7 +380,7 @@
     "people": [],
     "tags": [],
     "time": "10:00",
-    "title": "Adaptations - from media to another "
+    "title": "Adaptations - from media to another"
   },
   {
     "date": "2026-06-07",
@@ -582,30 +591,48 @@
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
-    "id": "Interview with Sarah Pinsker med ",
+    "format": "Interview",
+    "id": "Interview with Sarah Pinsker",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sarah Pinsker",
+        "name": "Sarah Pinsker"
+      },
+      {
+        "id": "Niels Dalgaard",
+        "name": "Niels Dalgaard"
+      }
+    ],
     "tags": [],
     "time": "15:00",
-    "title": "Interview with Sarah Pinsker med "
+    "title": "Interview with Sarah Pinsker"
   },
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
-    "id": " Samtale om oversættelse af Fantatisk litteratur",
+    "format": "Interview",
+    "id": "Samtale om oversættelse af Fantatisk litteratur",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Jakob Levinsen",
+        "name": "Jakob Levinsen"
+      },
+      {
+        "id": "Stig W Jørgensen",
+        "name": "Stig W Jørgensen"
+      }
+    ],
     "tags": [],
     "time": "15:00",
-    "title": " Samtale om oversættelse af Fantatisk litteratur"
+    "title": "Samtale om oversættelse af Fantatisk litteratur"
   },
   {
     "date": "2026-06-06",
@@ -639,7 +666,7 @@
     "date": "2026-06-06",
     "desc": "Valdemar Lenschow og Agnethe Poulsen taler om arthur myter. Panel eller interview med de to meget vidende mennesker. Jeg tror de kommer til at have brug for en til at stille \"dumme\" spørgsmål",
     "format": "Panel",
-    "id": "Arthurmyterne i litteraturen ",
+    "id": "Arthurmyterne i litteraturen",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -656,7 +683,7 @@
     ],
     "tags": [],
     "time": "14:00",
-    "title": "Arthurmyterne i litteraturen "
+    "title": "Arthurmyterne i litteraturen"
   },
   {
     "date": "2026-06-06",
@@ -786,16 +813,37 @@
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
-    "id": "Tamora Pierces forfatterskab ",
+    "format": "Panel",
+    "id": "Tamora Pierces forfatterskab",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sarah Ella Stoltze",
+        "name": "Sarah Ella Stoltze"
+      },
+      {
+        "id": "Mariane Mide",
+        "name": "Mariane Mide"
+      },
+      {
+        "id": "Sidsel Pedersen (M)",
+        "name": "Sidsel Pedersen (M)"
+      },
+      {
+        "id": "Lea Thume",
+        "name": "Lea Thume"
+      },
+      {
+        "id": "Sidsel Sander Mittet.",
+        "name": "Sidsel Sander Mittet."
+      }
+    ],
     "tags": [],
     "time": "12:00",
-    "title": "Tamora Pierces forfatterskab "
+    "title": "Tamora Pierces forfatterskab"
   },
   {
     "date": "2026-06-06",

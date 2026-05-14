@@ -20,6 +20,26 @@
     "name": "Pernille Lykke"
   },
   {
+    "id": "Sarah Ella Stoltze",
+    "name": "Sarah Ella Stoltze"
+  },
+  {
+    "id": "Mariane Mide",
+    "name": "Mariane Mide"
+  },
+  {
+    "id": "Sidsel Pedersen (M)",
+    "name": "Sidsel Pedersen (M)"
+  },
+  {
+    "id": "Lea Thume",
+    "name": "Lea Thume"
+  },
+  {
+    "id": "Sidsel Sander Mittet.",
+    "name": "Sidsel Sander Mittet."
+  },
+  {
     "id": "Eugenia Triantafyllou",
     "name": "Eugenia Triantafyllou"
   },
@@ -50,6 +70,22 @@
   {
     "id": "Agnethe Poulsen",
     "name": "Agnethe Poulsen"
+  },
+  {
+    "id": "Jakob Levinsen",
+    "name": "Jakob Levinsen"
+  },
+  {
+    "id": "Stig W Jørgensen",
+    "name": "Stig W Jørgensen"
+  },
+  {
+    "id": "Sarah Pinsker",
+    "name": "Sarah Pinsker"
+  },
+  {
+    "id": "Niels Dalgaard",
+    "name": "Niels Dalgaard"
   },
   {
     "id": "Valdemar Lenschow",
@@ -118,5 +154,13 @@
   {
     "id": "Marianne",
     "name": "Marianne"
+  },
+  {
+    "id": "Nanna Grønbech Petersen",
+    "name": "Nanna Grønbech Petersen"
+  },
+  {
+    "id": "bÆnji",
+    "name": "bÆnji"
   }
 ]

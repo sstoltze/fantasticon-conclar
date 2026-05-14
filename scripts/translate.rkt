@@ -17,12 +17,12 @@
                                 (match item
                                   [(list _ _ _ title desc type _ _ people)
 
-                                   (hash-set acc title (hasheq 'desc desc
-                                                               'type type
-                                                               'people (map (lambda (p)
-                                                                              (hasheq 'id (string-trim p)
-                                                                                      'name (string-trim p)))
-                                                                            (string-split people ","))))]
+                                   (hash-set acc (string-trim title) (hasheq 'desc desc
+                                                                             'type type
+                                                                             'people (map (lambda (p)
+                                                                                            (hasheq 'id (string-trim p)
+                                                                                                    'name (string-trim p)))
+                                                                                          (string-split people ","))))]
                                   [_ acc]))
                               (hash)
                               beskrivelser))
@@ -40,16 +40,17 @@
                                                  (list dato (second acc))]
                               [(list tid program ...)
                                (list (first acc)
-                                     (append (map (lambda (title r)
-                                                    (define info (hash-ref programme-info title (hash)))
+                                     (append (map (lambda (title room)
+                                                    (define trimmed-title (string-trim title))
+                                                    (define info (hash-ref programme-info trimmed-title (hash)))
                                                     (hasheq
-                                                     'id title
+                                                     'id trimmed-title
                                                      'date (first acc)
                                                      'format (hash-ref info 'type "")
                                                      'time (translate-time tid)
                                                      'mins "45"
-                                                     'title title
-                                                     'loc (list r)
+                                                     'title trimmed-title
+                                                     'loc (list room)
                                                      'tags (list)
                                                      'people (hash-ref info 'people (list))
                                                      'desc (hash-ref info 'desc "")))
