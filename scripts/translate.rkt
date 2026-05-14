@@ -3,6 +3,7 @@
 (require json)
 
 (define tidsplan (csv->list (open-input-file "tidsplan.csv")))
+(define beskrivelser (csv->list (open-input-file "beskrivelser.csv")))
 
 (define-values (lokaler plan) (match tidsplan
                                 [(list lokaler plan ...) (values (rest lokaler) plan)]))
@@ -12,7 +13,21 @@
       ""
       (string-append (substring tid 0 2) ":00")))
 
-(define p (filter
+(define programme-info (foldl (lambda (item acc)
+                                (match item
+                                  [(list _ _ _ title desc type _ _ people)
+
+                                   (hash-set acc title (hasheq 'desc desc
+                                                               'type type
+                                                               'people (map (lambda (p)
+                                                                              (hasheq 'id (string-trim p)
+                                                                                      'name (string-trim p)))
+                                                                            (string-split people ","))))]
+                                  [_ acc]))
+                              (hash)
+                              beskrivelser))
+
+(define programme (filter
            (lambda (item) (not (string=? (string-trim (hash-ref item 'title)) "")))
            (second
                    (foldl (lambda (tidspunkt acc)
@@ -25,22 +40,32 @@
                                                  (list dato (second acc))]
                               [(list tid program ...)
                                (list (first acc)
-                                     (append (map (lambda (p r)
+                                     (append (map (lambda (title r)
+                                                    (define info (hash-ref programme-info title (hash)))
                                                     (hasheq
-                                                     'id (~v (random 100000))
+                                                     'id title
                                                      'date (first acc)
+                                                     'format (hash-ref info 'type "")
                                                      'time (translate-time tid)
                                                      'mins "45"
-                                                     'title p
+                                                     'title title
                                                      'loc (list r)
                                                      'tags (list)
-                                                     'people (list)))
+                                                     'people (hash-ref info 'people (list))
+                                                     'desc (hash-ref info 'desc "")))
                                                   program
                                                   lokaler)
                                              (second acc)))]))
                           '("" ())
                           plan))))
 
+(define people (foldl (lambda (p acc) (append (hash-ref p 'people (list))
+                                                 acc))
+                      (list)
+                      programme))
 
 (with-output-to-file "../public/2026/program.js" #:exists 'replace
-  (lambda () (write-json p #:indent 2)))
+  (lambda () (write-json programme #:indent 2)))
+
+(with-output-to-file "../public/2026/people.js" #:exists 'replace
+  (lambda () (write-json people #:indent 2)))
