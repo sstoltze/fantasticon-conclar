@@ -136,8 +136,8 @@
     "mins": "45",
     "people": [
       {
-        "id": "Eugenia",
-        "name": "Eugenia"
+        "id": "Eugenia Triantafyllou",
+        "name": "Eugenia Triantafyllou"
       },
       {
         "id": "Asta",
@@ -182,16 +182,25 @@
   {
     "date": "2026-06-07",
     "desc": "",
-    "format": "",
-    "id": "Interview with Chris Beckett med Flemming Rasch",
+    "format": "Interview",
+    "id": "Interview with Chris Beckett",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Chris Beckett",
+        "name": "Chris Beckett"
+      },
+      {
+        "id": "Flemming Rasch",
+        "name": "Flemming Rasch"
+      }
+    ],
     "tags": [],
     "time": "13:00",
-    "title": "Interview with Chris Beckett med Flemming Rasch"
+    "title": "Interview with Chris Beckett"
   },
   {
     "date": "2026-06-07",
@@ -258,7 +267,7 @@
     "date": "2026-06-07",
     "desc": "",
     "format": "",
-    "id": "kaffe med en Eugenia T",
+    "id": "Coffee with Eugenia Triantafyllou",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -266,7 +275,7 @@
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "kaffe med en Eugenia T"
+    "title": "Coffee with Eugenia Triantafyllou"
   },
   {
     "date": "2026-06-07",
@@ -574,7 +583,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Interview with Sarah Pinsker med Niels Dalgaard",
+    "id": "Interview with Sarah Pinsker med ",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -582,7 +591,7 @@
     "people": [],
     "tags": [],
     "time": "15:00",
-    "title": "Interview with Sarah Pinsker med Niels Dalgaard"
+    "title": "Interview with Sarah Pinsker med "
   },
   {
     "date": "2026-06-06",
@@ -754,16 +763,25 @@
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
-    "id": "Interview with Eugenia T med Tobias",
+    "format": "Interview",
+    "id": "Interview with Eugenia Triantafyllou",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Eugenia Triantafyllou",
+        "name": "Eugenia Triantafyllou"
+      },
+      {
+        "id": "Tobias",
+        "name": "Tobias"
+      }
+    ],
     "tags": [],
     "time": "12:00",
-    "title": "Interview with Eugenia T med Tobias"
+    "title": "Interview with Eugenia Triantafyllou"
   },
   {
     "date": "2026-06-06",

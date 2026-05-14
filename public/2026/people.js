@@ -20,6 +20,14 @@
     "name": "Pernille Lykke"
   },
   {
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
+  },
+  {
+    "id": "Tobias",
+    "name": "Tobias"
+  },
+  {
     "id": "Anne Marie Vedsø-Olesen",
     "name": "Anne Marie Vedsø-Olesen"
   },
@@ -80,6 +88,14 @@
     "name": "Shekufe Heiberg"
   },
   {
+    "id": "Chris Beckett",
+    "name": "Chris Beckett"
+  },
+  {
+    "id": "Flemming Rasch",
+    "name": "Flemming Rasch"
+  },
+  {
     "id": "Jesper",
     "name": "Jesper"
   },
@@ -92,8 +108,8 @@
     "name": "..."
   },
   {
-    "id": "Eugenia",
-    "name": "Eugenia"
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
   },
   {
     "id": "Asta",
