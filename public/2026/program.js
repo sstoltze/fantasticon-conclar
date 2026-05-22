@@ -239,7 +239,12 @@
       "Mødelokale (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sidsel",
+        "name": "Sidsel"
+      }
+    ],
     "tags": [],
     "time": "13:00",
     "title": "Workshop: Reading Journals"
@@ -452,77 +457,7 @@
     "loc": [
       "Store sal (3. sal)"
     ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Anton Binder",
-        "name": "Anton Binder"
-      },
-      {
-        "id": "Sally A. Ward",
-        "name": "Sally A. Ward"
-      }
-    ],
-    "tags": [],
-    "time": "18:00",
-    "title": "How to Marry A Witch (Multimedie)"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "Troldmanden Merlin bringer sin legendariske podcast til Fantasticon i København, og med ham følger et mageløst monopol af mytiske skikkelser. Som altid er de klar til at diskutere storslåede dilemmaer involverende mord, affærer med guder og akavede dobbeltbookinger. Kom med til et underholdende liveshow, hvor publikum også inddrages til at give deres holdning til nogle af de præsenterede dilemmaer.\nDette afsnit bliver endda en crossover med programmet Kh Kærlighedens Gudinder samt dets skønne værtinder, gudinderne Freja og Afrodite. De vil bringe al den charme og sladder, som de er kendt for, med sig til Fantasticon. Til at runde dagens monopol af har vi selveste helgenen Sankt Valentin og ikke mindst dragen/stilikonet Zwei Zweiwich, bedre kendt som supermodellen Z eller “drage daddy”.\nSå sæt kryds i kalenderen og glæd dig til den helt store omgang mytologiske løjer og guddommelig sladder!\n",
-    "format": "Publikumsaktivitet",
-    "id": "Merlin og Monopolet - dilemmaer i fantasyland",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Valdemar Lenschow",
-        "name": "Valdemar Lenschow"
-      }
-    ],
-    "tags": [],
-    "time": "18:00",
-    "title": "Merlin og Monopolet - dilemmaer i fantasyland"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Spil",
-    "loc": [
-      "Mødelokale (2. sal)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "18:00",
-    "title": "Spil"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Meetup",
-    "loc": [
-      "Mødelokale (Stuen)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "18:00",
-    "title": "Meetup"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": " “How to Marry a Witch”.\nThe show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts .\n\n",
-    "format": "",
-    "id": "How to Marry A Witch (Multimedie)",
-    "loc": [
-      "Store sal (3. sal)"
-    ],
-    "mins": "45",
+    "mins": "90",
     "people": [
       {
         "id": "Anton Binder",
@@ -545,7 +480,7 @@
     "loc": [
       "Lille sal (Stuen)"
     ],
-    "mins": "45",
+    "mins": "90",
     "people": [
       {
         "id": "Valdemar Lenschow",
@@ -564,7 +499,7 @@
     "loc": [
       "Mødelokale (2. sal)"
     ],
-    "mins": "45",
+    "mins": "90",
     "people": [],
     "tags": [],
     "time": "17:00",
@@ -578,7 +513,7 @@
     "loc": [
       "Mødelokale (Stuen)"
     ],
-    "mins": "45",
+    "mins": "90",
     "people": [],
     "tags": [],
     "time": "17:00",
@@ -880,7 +815,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Overskrift og emnebeskrivelse:\n\n\nLove, Power, Sex, and Addiction in the writings of Octavia E. Butler\nA discussion of the complex interrelation between different kinds of connection and craving in stories written by the American SFF-author Octavia E. Butler, a master of the troubling and uncomfortable.\n\n\nBio'er:\n\nPernille (må gerne oversættes til engelsk hvis I foretækker det):\nPernille Lykke står bag profilen Lykkes Læserier på Instagram, hvor hun anmelder og blogger om bøger. Hendes hjerte banker i særlig grad for den spekulative fiktion og genreblandinger med spekulative elementer, men hun læser og anmelder alle genrer og formater.\n\nClaire:\nClaire Eliza Barlett is a writer of fantasy and science fiction for both children and Adults. As a young adult she traveled and studied history and archaeology, and she uses her experiences and learning to write history-inspired SFF. Her most recent novel is \"The Hollow Age,\" which can be found here: https://authorclaire.com/as-cathryn-bankroft/\n\nJane:\nJane Mondrup writes various kinds of speculative fiction, for adults as well as children. So far, she has published the alternate history novel Zeitgeist, the first contact story Zoi, and the children’s novel Vattes vandring plus a few short stories. Apart from writing, she’s in the con committee for Vilde Universer in Aarhus\n",
+    "desc": "A discussion of the complex interrelation between different kinds of connection and craving in stories written by the American SFF-author Octavia E. Butler, a master of the troubling and uncomfortable.\n\n\nBios:\nPernille Lykke står bag profilen Lykkes Læserier på Instagram, hvor hun anmelder og blogger om bøger. Hendes hjerte banker i særlig grad for den spekulative fiktion og genreblandinger med spekulative elementer, men hun læser og anmelder alle genrer og formater.\n\nClaire Eliza Barlett is a writer of fantasy and science fiction for both children and Adults. As a young adult she traveled and studied history and archaeology, and she uses her experiences and learning to write history-inspired SFF. Her most recent novel is \"The Hollow Age,\" which can be found here: https://authorclaire.com/as-cathryn-bankroft/\n\nJane Mondrup writes various kinds of speculative fiction, for adults as well as children. So far, she has published the alternate history novel Zeitgeist, the first contact story Zoi, and the children’s novel Vattes vandring plus a few short stories. Apart from writing, she’s in the con committee for Vilde Universer in Aarhus\n",
     "format": "Panel",
     "id": "Octavia E. Butler: Love, Power, Sex, and Addiction",
     "loc": [

@@ -108,18 +108,6 @@
     "name": "Sally A. Ward"
   },
   {
-    "id": "Valdemar Lenschow",
-    "name": "Valdemar Lenschow"
-  },
-  {
-    "id": "Anton Binder",
-    "name": "Anton Binder"
-  },
-  {
-    "id": "Sally A. Ward",
-    "name": "Sally A. Ward"
-  },
-  {
     "id": "Tue",
     "name": "Tue"
   },
@@ -174,6 +162,10 @@
   {
     "id": "Thomas Recktenwald (tysker) ...",
     "name": "Thomas Recktenwald (tysker) ..."
+  },
+  {
+    "id": "Sidsel",
+    "name": "Sidsel"
   },
   {
     "id": "Shekufe Heiberg",

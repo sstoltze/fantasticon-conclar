@@ -9,9 +9,10 @@
                                 [(list lokaler plan ...) (values (rest lokaler) plan)]))
 
 (define (translate-time tid)
-  (if (eq? tid "")
-      ""
-      (string-append (substring tid 0 2) ":00")))
+  (cond [(eq? tid "") (values "" "45")]
+        [else (values (string-append (substring tid 0 2) ":00") (if (string-contains? tid ":30")
+                                                                    "90"
+                                                                    "45"))]))
 
 (define programme-info (foldl (lambda (item acc)
                                 (match item
@@ -43,12 +44,13 @@
                                      (append (map (lambda (title room)
                                                     (define trimmed-title (string-trim title))
                                                     (define info (hash-ref programme-info trimmed-title (hash)))
+                                                    (define-values (start duration) (translate-time tid))
                                                     (hasheq
                                                      'id trimmed-title
                                                      'date (first acc)
                                                      'format (hash-ref info 'type "")
-                                                     'time (translate-time tid)
-                                                     'mins "45"
+                                                     'time start
+                                                     'mins duration
                                                      'title trimmed-title
                                                      'loc (list room)
                                                      'tags (list)
