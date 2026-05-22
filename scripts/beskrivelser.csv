@@ -1,7 +1,7 @@
 Arbejdes aktivt på,I program,"Programpunkt er klar, med deltagere",Titel,Programpunkts-beskrivelse,,Begrænsninger,Ansvarlig,Deltagere
 TRUE,TRUE,FALSE,Interview with Sarah Pinsker,,Interview,,Sidsel,"Sarah Pinsker, Niels Dalgaard"
 TRUE,TRUE,FALSE,Interview with Eugenia Triantafyllou,,Interview,Lørdag,Tobias,"Eugenia Triantafyllou, Tobias"
-TRUE,TRUE,FALSE,Interview with Chris Beckett,,Interview,,Flemming,"Chris Beckett, Flemming Rasch"
+TRUE,TRUE,FALSE,Interview with Chris Beckett,,Interview,,Flemming,
 FALSE,FALSE,FALSE,Writers and fandom now and then,,Foredrag,,Flemming,Æresgæsterne
 TRUE,TRUE,FALSE,Gross Love - love in horror,,Panel,,Asta,"Eugenia Triantafyllou, Asta, Marianne"
 FALSE,FALSE,FALSE,Foredrag Kim Escherich - The White Man,,Foredrag,,Sidsel,Kim Escherich
@@ -11,45 +11,67 @@ FALSE,FALSE,FALSE,Historie - science fiction-genrens historie,,,,Tue,Tue vender 
 TRUE,FALSE,FALSE,Kontrafaktisk historie,,,,Tue,Tue vender tilbage efter at have tænkt næste gang
 TRUE,TRUE,FALSE,On writing romantasy,,Panel,,Julie,"CA Wolters, Emile Sodyte"
 TRUE,TRUE,FALSE,Flammesværdet ... Hele serien,,Interview,Lørdag efter 13,Julie,Anne Marie Vedsø-Olesen 
-TRUE,TRUE,FALSE,Samtale om oversættelse af Fantatisk litteratur,,Interview,,Jesper,"Jakob Levinsen,  Stig W Jørgensen"
+TRUE,TRUE,TRUE,Samtale om oversættelse af Fantatisk litteratur,,Interview,,Jesper,"Jakob Levinsen, Stig W Jørgensen"
 TRUE,TRUE,FALSE,Speeddate en bog,"Hvis man vil være med, så kommer man med bogen man anbefaler. 1:1 on books. Fortæl det en anden person i et minut, og den anden fortæller sin bog til dig. Fløjten lyder og alle skifter til en anden partner.",Publikumsaktivitet,,Asta,
-TRUE,TRUE,FALSE,Kaffeklatches,,Publikumsaktivitet,,Asta,Flemming kontakter deres Chris Beckett og spørger dem om de vil det. (Eugenia  og Sarah har sagt ja til det.)
+TRUE,TRUE,FALSE,Kaffeklatches,"Kom og mød en af vores æresgæster og drik en kop kaffe med dem. En kaffeklatch er uformel samtale med en gæst og en gruppe gæster i en times tid. Det kræver ikke nogen forberedelse, men foregår på engelsk.",Publikumsaktivitet,,Asta,Flemming kontakter deres Chris Beckett og spørger dem om de vil det. (Eugenia  og Sarah har sagt ja til det.)
 TRUE,TRUE,FALSE,Møde mellem fans - mød en ny ven,Hvis du er ny så kom her og mød de andre nye.,Publikumsaktivitet,,Sidsel,
 TRUE,FALSE,FALSE,"Sæt dig her, hvis du vil tale med nogen du ikke kender!",,Publikumsaktivitet,,Sidsel,"Udnævn et bord i cafeen til et sted man kan sætte sig for at snakke med fremmede. Alle*) borde i cafeen har et emne, en genre eller noget fantatisk fra et samtalekort eller lignende. *) for alle læs nogen. "
 FALSE,FALSE,FALSE,Fotosafari - på connen,,Publikumsaktivitet,,Sarah,"Fotoopgaver på connen og i nærområdet. Ting og interview, baren, øletiketter, badges, bøger, merchandise, ... Post det fb, insta, blusky #fantasticonfotosafarimedkameraogetgodtøjetildetskæve. Eller en googleform - eller kom op i baren og vis dine billeder. "
-TRUE,TRUE,FALSE,Lunarpunk,,Foredrag,søndag,Jesper,Shekufe Heiberg
-TRUE,TRUE,FALSE,Vi🫀Horror,,Panel,,Asta / Mariane,"karsten brandt-knudsen deltager! Et panel om vores kærlighed til genren fantasy, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. "
-TRUE,TRUE,FALSE,Vi ❤️ Fantasy,,Panel,Lørdag,Jesper/Tobias,"Et panel om vores kærlighed til genren horror, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. "
-TRUE,TRUE,FALSE,Vi ❤️ Science fiction,,Panel,,Flemming/Tue,"Et panel om vores kærlighed til genren science fiction, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. "
+TRUE,TRUE,TRUE,Lunarpunk,"What is Lunar Punk? Lunar Punk is an ecofeminist subgenre of science fiction. It is based on cyclical narrative forms – the understanding that all life on Earth is intertwined, and should be recognized for their importance in the Big Web of Being. Where Solarpunk romanticizes solar power and solar energy, Lunar Punk romanticizes the power of imagination and imaginary energy (lunargy). Our own inner lunatic ability (lunability) to shine our light in the dark, to think up other realities and future possibilities, and share them with each other, until they become our new reality. Shekufe Heiberg will go deep into the speculative and utopian world of Lunar Punk and explain how it started and where it’s going.",Foredrag,søndag,Jesper,Shekufe Heiberg
+TRUE,TRUE,FALSE,Vi🫀Horror,"Et panel om vores kærlighed til genren fantasy, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. ",Panel,,Jesper/Tobias,
+TRUE,TRUE,FALSE,We ❤️ Fantasy,"Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",Panel,Lørdag,Asta / Mariane,
+TRUE,TRUE,FALSE,We ❤️ Science fiction,"Et panel om vores kærlighed til genren science fiction, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. ",Panel,,Flemming/Tue,
 FALSE,FALSE,FALSE,Crafts and writing (or hobbies),,Panel,,Tobias,"Sarah Pinsker, Eugenia Triantafyllou"
 TRUE,FALSE,FALSE,Can genre literature be any good? What makes it good? Ideas over literature? What is quality?,,Panel,,,"Levinsen, guest of honour"
-TRUE,FALSE,FALSE,Mundane Science Fiction,,Panel,,Maria,"Jesper, Jasmin, ..."
-TRUE,TRUE,FALSE,"Adaptations - fra bog til film, tegneserier til film, podcast til film",Hvordan fanger man det originale værk og hvad vælger man fra og til. Kan det blive bedre af at komme længere væk?,Panel,,Maria/Asta,"Tue, Maria, Asta"
+TRUE,FALSE,FALSE,Mundane Science Fiction,,Panel,,Maria,"Jesper, Jasmin"
+TRUE,TRUE,FALSE,"Adaptations - from one medium to another  
+",Hvordan fanger man det originale værk og hvad vælger man fra og til. Kan det blive bedre af at komme længere væk?,Panel,,Maria/Asta,"Tue, Maria, Asta"
 TRUE,FALSE,FALSE,Isolation i fiktion - hvad gør det ved os,,Panel,,Sidsel,"Eugenia Triantafyllou, Sarah Pinsker"
 FALSE,FALSE,FALSE,"Monster-""kærlighed""/-romance",,Panel,,,Sanne? Wolters
-TRUE,TRUE,FALSE,Ask me anything ...,,Panel,,Tobias,Æresgæsterne sammen og man snakker sammen med publikum
+TRUE,TRUE,FALSE,Ask me anything with the Guest of Honours,"Anything you always to ask an author about, but didn't have the chance or the courage, or three of them sitting ready just to answer your specific question? Now is the chance, at the ASK ME ANYTHING, you can literally ask the three distinguished guests anything - they might not answer though. ",Panel,,Tobias,"Sarah Pinsker, Eugenia Triantafyllou, Chris Beckett
+"
 FALSE,FALSE,FALSE,Queer - subtexts,,,,Sarah,"Sanna, Calisa Vincentzen?"
 TRUE,TRUE,FALSE,Workshop: Reading Journals,,Workshop,,Sidsel,
-TRUE,TRUE,FALSE,"Octavia E. Butler: Love, Power, Sex, and Addiction",,Panel,,jane,"Jane Mondrup, Claire Bartlett, Pernille Lykke"
-FALSE,FALSE,FALSE,"Arrangørgruppeforslag - horror, space opera, ... og kærlighed",,REKLAME,PANEL,Asta,Vi i arrangørgruppen foreslår noget om de forskellige genrer og kærlighed. REKLAME og Panel
+TRUE,TRUE,FALSE,"Octavia E. Butler: Love, Power, Sex, and Addiction","Overskrift og emnebeskrivelse:
+
+
+Love, Power, Sex, and Addiction in the writings of Octavia E. Butler
+A discussion of the complex interrelation between different kinds of connection and craving in stories written by the American SFF-author Octavia E. Butler, a master of the troubling and uncomfortable.
+
+
+Bio'er:
+
+Pernille (må gerne oversættes til engelsk hvis I foretækker det):
+Pernille Lykke står bag profilen Lykkes Læserier på Instagram, hvor hun anmelder og blogger om bøger. Hendes hjerte banker i særlig grad for den spekulative fiktion og genreblandinger med spekulative elementer, men hun læser og anmelder alle genrer og formater.
+
+Claire:
+Claire Eliza Barlett is a writer of fantasy and science fiction for both children and Adults. As a young adult she traveled and studied history and archaeology, and she uses her experiences and learning to write history-inspired SFF. Her most recent novel is ""The Hollow Age,"" which can be found here: https://authorclaire.com/as-cathryn-bankroft/
+
+Jane:
+Jane Mondrup writes various kinds of speculative fiction, for adults as well as children. So far, she has published the alternate history novel Zeitgeist, the first contact story Zoi, and the children’s novel Vattes vandring plus a few short stories. Apart from writing, she’s in the con committee for Vilde Universer in Aarhus
+",Panel,,jane,"Jane Mondrup, Claire Bartlett, Pernille Lykke"
+FALSE,FALSE,FALSE,"Arrangørgruppeforslag - horror, space opera, ... og kærlighed",Vi i arrangørgruppen foreslår noget om de forskellige genrer og kærlighed. REKLAME og Panel,REKLAME,PANEL,Asta,
 TRUE,TRUE,FALSE,Arthurmyterne i litteraturen ,"Valdemar Lenschow og Agnethe Poulsen taler om arthur myter. Panel eller interview med de to meget vidende mennesker. Jeg tror de kommer til at have brug for en til at stille ""dumme"" spørgsmål",Panel,lørdag,Sidsel,"Valdemar Lenschow, Agnethe Poulsen"
 TRUE,TRUE,FALSE,Merlin og Monopolet - dilemmaer i fantasyland,"Troldmanden Merlin bringer sin legendariske podcast til Fantasticon i København, og med ham følger et mageløst monopol af mytiske skikkelser. Som altid er de klar til at diskutere storslåede dilemmaer involverende mord, affærer med guder og akavede dobbeltbookinger. Kom med til et underholdende liveshow, hvor publikum også inddrages til at give deres holdning til nogle af de præsenterede dilemmaer.
 Dette afsnit bliver endda en crossover med programmet Kh Kærlighedens Gudinder samt dets skønne værtinder, gudinderne Freja og Afrodite. De vil bringe al den charme og sladder, som de er kendt for, med sig til Fantasticon. Til at runde dagens monopol af har vi selveste helgenen Sankt Valentin og ikke mindst dragen/stilikonet Zwei Zweiwich, bedre kendt som supermodellen Z eller “drage daddy”.
 Så sæt kryds i kalenderen og glæd dig til den helt store omgang mytologiske løjer og guddommelig sladder!
 ",Publikumsaktivitet,lørdag,Sidsel,Valdemar Lenschow
-TRUE,TRUE,FALSE,Kinesisk fantasy,"Hvis I mangler punkter til programmet og kunne være interesserede, så kan jeg godt lave et lille oplæg om kinesisk fantasy, som er ved at blive mere populært. Især kinesisk queer fantasy, den såkaldte danmei, kan nu købes herhjemme i engelsk oversættelse, og jeg har set at bibliotekerne også har købt lidt ind. Det virker dog stadig til at være en genre,som ikke er særlig kendt i Danmark,men jeg har efterhånden set og læst en hel del af det og har noget baggrundsviden om Kina. Så hvis du og de andre arrangører evt syntes, at det var interessant, kan jeg godt lave et lille oplæg, der kan fungere som en slags 'starterpack' til hvordan man udforsker genren mht film, tv-serier og bøger.",Foredrag,,Sidsel,Agnethe Poulsen
-TRUE,TRUE,FALSE,European science fiction,,Panel,,Jesper,"svensker, dansker, englænder, græker, Thomas Recktenwald (tysker) ..."
+TRUE,TRUE,FALSE,Kinesisk fantasy,"Kinesisk fantasy, som er ved at blive mere populært. Især kinesisk queer fantasy, den såkaldte danmei, kan nu købes herhjemme i engelsk oversættelse, selv bibliotekerne køber det ind. Det virker dog stadig til at være en genre,som ikke er særlig kendt i Danmark,men Jasmin Hansen har et oplæg, der kan fungere som en slags 'starterpack' til hvordan man udforsker genren mht film, tv-serier og bøger.",Foredrag,,Sidsel,Agnethe Poulsen
+TRUE,TRUE,TRUE,State of the Union: European Fantastical Litterature,What is going on in European Fantastical literature. A panel of Europeans will sit down and discuss how genre literature is faring in todays Europe,Panel,,Jesper,"svensker, dansker, Ian Sales, Eugenia Triantafyllou (græker), Thomas Recktenwald (tysker) ..."
 FALSE,FALSE,FALSE,English Science Fiction,,Panel,,,
 FALSE,FALSE,FALSE,Watson - et retrospective,,,,,
-TRUE,TRUE,FALSE,De hugo-nominerede 2026,,Panel,,Flemming,"Caroline (m), Sarah Ella Stoltze, Lars Ahn, Sidsel/Jane, Jeppe Larsen"
-FALSE,FALSE,FALSE,Om at skrive robotter,,Panel,,,"Sarah Pinsker, ..."
-FALSE,FALSE,FALSE,"Tekstskrivning, processer, kreativitet og inspirationer.",,,,Jesper,"Nanna Grønbech Petersen, musiker bÆnji"
-TRUE,TRUE,FALSE,N. B. - Epik & musik.,,,,Jesper,"Nanna Grønbech Petersen, bÆnji"
+TRUE,TRUE,FALSE,De hugo-nominerede 2026,"A panel on this years Hugo Nominations. The well read panel will discuss this years nominated short stories, novellettes and novels, and they might even recommend one or two.",Panel,,Flemming,"Caroline (m), Sarah Ella Stoltze, Lars Ahn, Sidsel/Jane, Jeppe Larsen"
+FALSE,FALSE,FALSE,Om at skrive robotter,,Panel,,,Sarah Pinsker
+FALSE,FALSE,TRUE,"Tekstskrivning, processer, kreativitet og inspirationer.","Talk mellem forfatter Nanna Grønbech Petersen og musiker bÆnji om tekstskrivning, processer, kreativitet og inspirationer.",,,Jesper,"Nanna Grønbech Petersen, musiker bÆnji"
+TRUE,TRUE,TRUE,N. B. - Epik & musik.,Oplæsning ved science fiction forfatter Nanna Grønbech Petersen & musik af bÆnji skabt specifikt til teksterne.,,,Jesper,"Nanna Grønbech Petersen, bÆnji"
 FALSE,FALSE,FALSE,Forlag til at fortælle om hvor branchen er på vej hen,,Panel,,,
 FALSE,FALSE,FALSE,Forfatter og redaktør - om at redigere og blive redigeret,,Panel,,,
-,,FALSE,How to marry a witch,,,,Jesper,"Anton Binder, Sally A. Ward"
-,,FALSE,,,,,,
-,,FALSE,,,,,,
+TRUE,TRUE,FALSE,How to Marry A Witch (Multimedie)," “How to Marry a Witch”.
+The show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts .
+
+",,,Jesper,"Anton Binder, Sally A. Ward"
+,,FALSE,Worldbuilding in Short Fiction,,,,,"Eugenia Triantafyllou, Chris Beckett, Sarah Pinsker, Flemming Rasch (m)"
+,,FALSE,Auktion,,,,,Klaus Æ Mogensen
 ,,FALSE,,,,,,
 ,,FALSE,,,,,,
 ,,FALSE,,,,,,

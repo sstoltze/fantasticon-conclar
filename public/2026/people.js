@@ -52,16 +52,20 @@
     "name": "Anne Marie Vedsø-Olesen"
   },
   {
-    "id": "karsten brandt-knudsen deltager! Et panel om vores kærlighed til genren fantasy",
-    "name": "karsten brandt-knudsen deltager! Et panel om vores kærlighed til genren fantasy"
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
   },
   {
-    "id": "vi snakker om alt fra film til bøger til musik",
-    "name": "vi snakker om alt fra film til bøger til musik"
+    "id": "Chris Beckett",
+    "name": "Chris Beckett"
   },
   {
-    "id": "og hvorfor vi elsker netop den genre.",
-    "name": "og hvorfor vi elsker netop den genre."
+    "id": "Sarah Pinsker",
+    "name": "Sarah Pinsker"
+  },
+  {
+    "id": "Flemming Rasch (m)",
+    "name": "Flemming Rasch (m)"
   },
   {
     "id": "Valdemar Lenschow",
@@ -88,12 +92,44 @@
     "name": "Niels Dalgaard"
   },
   {
-    "id": "Valdemar Lenschow",
-    "name": "Valdemar Lenschow"
+    "id": "Klaus Æ Mogensen",
+    "name": "Klaus Æ Mogensen"
   },
   {
     "id": "Valdemar Lenschow",
     "name": "Valdemar Lenschow"
+  },
+  {
+    "id": "Anton Binder",
+    "name": "Anton Binder"
+  },
+  {
+    "id": "Sally A. Ward",
+    "name": "Sally A. Ward"
+  },
+  {
+    "id": "Valdemar Lenschow",
+    "name": "Valdemar Lenschow"
+  },
+  {
+    "id": "Anton Binder",
+    "name": "Anton Binder"
+  },
+  {
+    "id": "Sally A. Ward",
+    "name": "Sally A. Ward"
+  },
+  {
+    "id": "Tue",
+    "name": "Tue"
+  },
+  {
+    "id": "Maria",
+    "name": "Maria"
+  },
+  {
+    "id": "Asta",
+    "name": "Asta"
   },
   {
     "id": "Caroline (m)",
@@ -120,16 +156,28 @@
     "name": "Agnethe Poulsen"
   },
   {
+    "id": "svensker",
+    "name": "svensker"
+  },
+  {
+    "id": "dansker",
+    "name": "dansker"
+  },
+  {
+    "id": "Ian Sales",
+    "name": "Ian Sales"
+  },
+  {
+    "id": "Eugenia Triantafyllou (græker)",
+    "name": "Eugenia Triantafyllou (græker)"
+  },
+  {
+    "id": "Thomas Recktenwald (tysker) ...",
+    "name": "Thomas Recktenwald (tysker) ..."
+  },
+  {
     "id": "Shekufe Heiberg",
     "name": "Shekufe Heiberg"
-  },
-  {
-    "id": "Chris Beckett",
-    "name": "Chris Beckett"
-  },
-  {
-    "id": "Flemming Rasch",
-    "name": "Flemming Rasch"
   },
   {
     "id": "Jesper",
@@ -138,10 +186,6 @@
   {
     "id": "Jasmin",
     "name": "Jasmin"
-  },
-  {
-    "id": "...",
-    "name": "..."
   },
   {
     "id": "Eugenia Triantafyllou",
@@ -162,5 +206,17 @@
   {
     "id": "bÆnji",
     "name": "bÆnji"
+  },
+  {
+    "id": "Sarah Pinsker",
+    "name": "Sarah Pinsker"
+  },
+  {
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
+  },
+  {
+    "id": "Chris Beckett",
+    "name": "Chris Beckett"
   }
 ]
