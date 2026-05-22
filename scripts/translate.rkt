@@ -9,8 +9,11 @@
                                 [(list lokaler plan ...) (values (rest lokaler) plan)]))
 
 (define (translate-time tid)
-  (cond [(eq? tid "") (values "" "45")]
-        [else (values (string-append (substring tid 0 2) ":00") (if (string-contains? tid ":30")
+  (match tid
+    ["" (values "" "45")]
+    [(pregexp #px"(\\d+)-\\1:30") (values (string-append (substring tid 0 2) ":00") "30")]
+    [(pregexp #px"(\\d+):30-.*") (values (string-append (substring tid 0 2) ":30") "30")]
+    [_ (values (string-append (substring tid 0 2) ":00") (if (string-contains? tid ":30")
                                                                     "90"
                                                                     "45"))]))
 

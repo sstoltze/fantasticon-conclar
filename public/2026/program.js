@@ -523,6 +523,20 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
+    "id": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "30",
+    "people": [],
+    "tags": [],
+    "time": "16:00",
+    "title": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "",
+    "format": "",
     "id": "Auktion",
     "loc": [
       "Store sal (3. sal)"
@@ -565,20 +579,6 @@
     "tags": [],
     "time": "16:00",
     "title": "Coffee with Eugenia Triantafyllou"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "16:00",
-    "title": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS"
   },
   {
     "date": "2026-06-06",
@@ -744,6 +744,20 @@
   {
     "date": "2026-06-06",
     "desc": "",
+    "format": "",
+    "id": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "30",
+    "people": [],
+    "tags": [],
+    "time": "12:00",
+    "title": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "",
     "format": "Interview",
     "id": "Interview with Eugenia Triantafyllou",
     "loc": [
@@ -807,11 +821,25 @@
     "loc": [
       "Biblioteket"
     ],
-    "mins": "45",
+    "mins": "30",
     "people": [],
     "tags": [],
-    "time": "12:00",
+    "time": "11:30",
     "title": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "",
+    "format": "",
+    "id": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "30",
+    "people": [],
+    "tags": [],
+    "time": "11:00",
+    "title": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET"
   },
   {
     "date": "2026-06-06",
@@ -876,20 +904,6 @@
     "tags": [],
     "time": "11:00",
     "title": "Møde mellem fans - mød en ny ven"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET + Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "11:00",
-    "title": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET + Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
   },
   {
     "date": "2026-06-06",
