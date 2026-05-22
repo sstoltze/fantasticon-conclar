@@ -453,7 +453,7 @@
     "date": "2026-06-06",
     "desc": " “How to Marry a Witch”.\nThe show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts .\n\n",
     "format": "",
-    "id": "How to Marry A Witch (Multimedie)",
+    "id": "How to Marry A Witch",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -470,7 +470,7 @@
     ],
     "tags": [],
     "time": "17:00",
-    "title": "How to Marry A Witch (Multimedie)"
+    "title": "How to Marry A Witch"
   },
   {
     "date": "2026-06-06",
