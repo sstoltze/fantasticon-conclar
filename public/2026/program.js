@@ -99,7 +99,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "Anything you always to ask an author about, but didn't have the chance or the courage, or three of them sitting ready just to answer your specific question? Now is the chance, at the ASK ME ANYTHING, you can literally ask the three distinguished guests anything - they might not answer though. ",
+    "desc": "Anything you always wanted to ask an author about, but didn't have the chance or the courage, or three of them sitting ready just to answer your specific question? Now is the chance, at the ASK ME ANYTHING, you can literally ask the three distinguished guests anything - they might not answer though. ",
     "format": "Panel",
     "id": "Ask me anything with the Guest of Honours",
     "loc": [
@@ -451,7 +451,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": " “How to Marry a Witch”.\nThe show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts .\n\n",
+    "desc": "The show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts.\n\n",
     "format": "",
     "id": "How to Marry A Witch",
     "loc": [
@@ -642,7 +642,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Valdemar Lenschow og Agnethe Poulsen taler om arthur myter. Panel eller interview med de to meget vidende mennesker. Jeg tror de kommer til at have brug for en til at stille \"dumme\" spørgsmål",
+    "desc": "Valdemar Lenschow og Agnethe Poulsen taler om arthur myter. Panel eller interview med de to meget vidende mennesker.",
     "format": "Panel",
     "id": "Arthurmyterne i litteraturen",
     "loc": [
@@ -665,7 +665,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Et panel om vores kærlighed til genren fantasy, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. ",
+    "desc": "The show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts.\n\n",
     "format": "Panel",
     "id": "Vi🫀Horror",
     "loc": [
