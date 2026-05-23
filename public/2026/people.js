@@ -68,6 +68,18 @@
     "name": "Flemming Rasch (m)"
   },
   {
+    "id": "Asta Jersø",
+    "name": "Asta Jersø"
+  },
+  {
+    "id": "Mariane Mide",
+    "name": "Mariane Mide"
+  },
+  {
+    "id": "Karsten Brandt-Knudsen",
+    "name": "Karsten Brandt-Knudsen"
+  },
+  {
     "id": "Valdemar Lenschow",
     "name": "Valdemar Lenschow"
   },

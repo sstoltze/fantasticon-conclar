@@ -149,7 +149,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "What does love look like in the genre of horror? Does it aid the good, does it conquer the bad, or is it a corrupting force? Is a mother's love as monstrous as in the fairytales?  Is there something hidden in the dark recesses of a woman's love for her offspring? And what is romance, if not literally all consuming? And a little gross, sticky and bloody? We will explore these questions in this lovely and horrific panel.",
     "format": "Panel",
     "id": "Gross Love - love in horror",
     "loc": [
@@ -665,14 +665,27 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "The show is an entertaining exploration of the theme of love and marriage between a mortal man and a witch, as presented over various media including fiction, classic movies and TV shows. The production takes the form of a screwball comedy dialogue between a Witch and her Magician husband and includes some amazing close up magic which complements the film excerpts.\n\n",
+    "desc": "Vi elsker horror, og vi elsker at snakke om det. Kom til et hyggeligt panel, hvor 3 horror entusiaster prøver at overholde tidsplanen, mens de ævler løs om den bedste genre i verden. (Vi kan ikke love, at det ikke bliver lidt klamt)",
     "format": "Panel",
     "id": "Vi🫀Horror",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Asta Jersø",
+        "name": "Asta Jersø"
+      },
+      {
+        "id": "Mariane Mide",
+        "name": "Mariane Mide"
+      },
+      {
+        "id": "Karsten Brandt-Knudsen",
+        "name": "Karsten Brandt-Knudsen"
+      }
+    ],
     "tags": [],
     "time": "14:00",
     "title": "Vi🫀Horror"
