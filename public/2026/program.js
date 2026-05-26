@@ -589,76 +589,6 @@
     "date": "2026-06-07",
     "desc": "",
     "format": "",
-    "id": "Oprydning",
-    "loc": [
-      "Cafe"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "16:00",
-    "title": "Oprydning"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "",
-    "format": "",
-    "id": "Oprydning",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "16:00",
-    "title": "Oprydning"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "",
-    "format": "",
-    "id": "Oprydning",
-    "loc": [
-      "Mødelokale (Stuen)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "16:00",
-    "title": "Oprydning"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "",
-    "format": "",
-    "id": "Oprydning",
-    "loc": [
-      "Mødelokale (2. sal)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "16:00",
-    "title": "Oprydning"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "",
-    "format": "",
-    "id": "Oprydning",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "16:00",
-    "title": "Oprydning"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "",
-    "format": "",
     "id": "Quiz",
     "loc": [
       "Cafe"
@@ -891,20 +821,6 @@
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "11:00",
-    "title": "We ❤️ Fantasy"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
-    "format": "Panel",
-    "id": "We ❤️ Fantasy",
-    "loc": [
-      "Store sal (3. sal)"
-    ],
-    "mins": "30",
     "people": [],
     "tags": [],
     "time": "11:00",

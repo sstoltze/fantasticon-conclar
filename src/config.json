@@ -187,6 +187,10 @@
     "ADJUST_MINUTES": 10,
     "FROM_START": false
   },
+  "START_TIME": {
+    "START_TIME_LABEL": "Starts: @con_time",
+    "START_TIME_WITH_LOCAL_LABEL": "Starts: @con_time con time, @local_time local time"
+  },
   "PEOPLE": {
     "MODERATORS": {
       "MODERATOR_LABEL": "(moderator)"
