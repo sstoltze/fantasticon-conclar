@@ -1,203 +1,127 @@
 [
   {
-    "id": "Nanna Grønbech Petersen",
-    "name": "Nanna Grønbech Petersen"
+    "id": "Agnethe Poulsen",
+    "name": "Agnethe Poulsen"
   },
   {
-    "id": "musiker bÆnji",
-    "name": "musiker bÆnji"
-  },
-  {
-    "id": "Sarah Ella Stoltze",
-    "name": "Sarah Ella Stoltze"
-  },
-  {
-    "id": "Mariane Mide",
-    "name": "Mariane Mide"
-  },
-  {
-    "id": "Sidsel Pedersen (M)",
-    "name": "Sidsel Pedersen (M)"
-  },
-  {
-    "id": "Lea Thume",
-    "name": "Lea Thume"
-  },
-  {
-    "id": "Sidsel Sander Mittet.",
-    "name": "Sidsel Sander Mittet."
-  },
-  {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
-  },
-  {
-    "id": "Tobias",
-    "name": "Tobias"
+    "id": "Agnethe Poulsen",
+    "name": "Agnethe Poulsen"
   },
   {
     "id": "Anne Marie Vedsø-Olesen",
     "name": "Anne Marie Vedsø-Olesen"
   },
   {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
+    "id": "Anton Binder",
+    "name": "Anton Binder"
   },
   {
-    "id": "Chris Beckett",
-    "name": "Chris Beckett"
+    "id": "Asta",
+    "name": "Asta"
   },
   {
-    "id": "Sarah Pinsker",
-    "name": "Sarah Pinsker"
-  },
-  {
-    "id": "Flemming Rasch (m)",
-    "name": "Flemming Rasch (m)"
+    "id": "Asta",
+    "name": "Asta"
   },
   {
     "id": "Asta Jersø",
     "name": "Asta Jersø"
   },
   {
-    "id": "Mariane Mide",
-    "name": "Mariane Mide"
+    "id": "Carolina Gomez Lagerlöf",
+    "name": "Carolina Gomez Lagerlöf"
   },
   {
-    "id": "Karsten Brandt-Knudsen",
-    "name": "Karsten Brandt-Knudsen"
+    "id": "Chris Beckett",
+    "name": "Chris Beckett"
   },
   {
-    "id": "Valdemar Lenschow",
-    "name": "Valdemar Lenschow"
-  },
-  {
-    "id": "Agnethe Poulsen",
-    "name": "Agnethe Poulsen"
-  },
-  {
-    "id": "Jakob Levinsen",
-    "name": "Jakob Levinsen"
-  },
-  {
-    "id": "Stig W Jørgensen",
-    "name": "Stig W Jørgensen"
-  },
-  {
-    "id": "Sarah Pinsker",
-    "name": "Sarah Pinsker"
-  },
-  {
-    "id": "Niels Dalgaard",
-    "name": "Niels Dalgaard"
-  },
-  {
-    "id": "Jane Mondrup",
-    "name": "Jane Mondrup"
+    "id": "Chris Beckett",
+    "name": "Chris Beckett"
   },
   {
     "id": "Claire Bartlett",
     "name": "Claire Bartlett"
   },
   {
-    "id": "Pernille Lykke",
-    "name": "Pernille Lykke"
-  },
-  {
-    "id": "Klaus Æ Mogensen",
-    "name": "Klaus Æ Mogensen"
-  },
-  {
-    "id": "Valdemar Lenschow",
-    "name": "Valdemar Lenschow"
-  },
-  {
-    "id": "Anton Binder",
-    "name": "Anton Binder"
-  },
-  {
-    "id": "Sally A. Ward",
-    "name": "Sally A. Ward"
-  },
-  {
-    "id": "Tue",
-    "name": "Tue"
-  },
-  {
-    "id": "Maria",
-    "name": "Maria"
-  },
-  {
-    "id": "Asta",
-    "name": "Asta"
-  },
-  {
-    "id": "Carolina Gomez Lagerlöf",
-    "name": "Carolina Gomez Lagerlöf"
-  },
-  {
-    "id": "Sarah Stoltze",
-    "name": "Sarah Stoltze"
-  },
-  {
-    "id": "Lars Ahn",
-    "name": "Lars Ahn"
-  },
-  {
-    "id": "Jane Mondrup",
-    "name": "Jane Mondrup"
-  },
-  {
-    "id": "Flemming R.P. Rasch (m)",
-    "name": "Flemming R.P. Rasch (m)"
-  },
-  {
-    "id": "Agnethe Poulsen",
-    "name": "Agnethe Poulsen"
-  },
-  {
-    "id": "svensker",
-    "name": "svensker"
-  },
-  {
-    "id": "dansker",
-    "name": "dansker"
-  },
-  {
-    "id": "Ian Sales",
-    "name": "Ian Sales"
-  },
-  {
-    "id": "Eugenia Triantafyllou (græker)",
-    "name": "Eugenia Triantafyllou (græker)"
-  },
-  {
-    "id": "Thomas Recktenwald (tysker) ...",
-    "name": "Thomas Recktenwald (tysker) ..."
-  },
-  {
-    "id": "Sidsel",
-    "name": "Sidsel"
-  },
-  {
-    "id": "Shekufe Heiberg",
-    "name": "Shekufe Heiberg"
-  },
-  {
-    "id": "Jesper",
-    "name": "Jesper"
-  },
-  {
-    "id": "Jasmin",
-    "name": "Jasmin"
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
   },
   {
     "id": "Eugenia Triantafyllou",
     "name": "Eugenia Triantafyllou"
   },
   {
-    "id": "Asta",
-    "name": "Asta"
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
+  },
+  {
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
+  },
+  {
+    "id": "Eugenia Triantafyllou (græker)",
+    "name": "Eugenia Triantafyllou (græker)"
+  },
+  {
+    "id": "Flemming R.P. Rasch (m)",
+    "name": "Flemming R.P. Rasch (m)"
+  },
+  {
+    "id": "Flemming Rasch (m)",
+    "name": "Flemming Rasch (m)"
+  },
+  {
+    "id": "Ian Sales",
+    "name": "Ian Sales"
+  },
+  {
+    "id": "Jakob Levinsen",
+    "name": "Jakob Levinsen"
+  },
+  {
+    "id": "Jane Mondrup",
+    "name": "Jane Mondrup"
+  },
+  {
+    "id": "Jane Mondrup",
+    "name": "Jane Mondrup"
+  },
+  {
+    "id": "Jasmin",
+    "name": "Jasmin"
+  },
+  {
+    "id": "Jesper",
+    "name": "Jesper"
+  },
+  {
+    "id": "Karsten Brandt-Knudsen",
+    "name": "Karsten Brandt-Knudsen"
+  },
+  {
+    "id": "Klaus Æ Mogensen",
+    "name": "Klaus Æ Mogensen"
+  },
+  {
+    "id": "Lars Ahn",
+    "name": "Lars Ahn"
+  },
+  {
+    "id": "Lea Thume",
+    "name": "Lea Thume"
+  },
+  {
+    "id": "Maria",
+    "name": "Maria"
+  },
+  {
+    "id": "Mariane Mide",
+    "name": "Mariane Mide"
+  },
+  {
+    "id": "Mariane Mide",
+    "name": "Mariane Mide"
   },
   {
     "id": "Marianne",
@@ -208,19 +132,95 @@
     "name": "Nanna Grønbech Petersen"
   },
   {
-    "id": "bÆnji",
-    "name": "bÆnji"
+    "id": "Nanna Grønbech Petersen",
+    "name": "Nanna Grønbech Petersen"
+  },
+  {
+    "id": "Niels Dalgaard",
+    "name": "Niels Dalgaard"
+  },
+  {
+    "id": "Pernille Lykke",
+    "name": "Pernille Lykke"
+  },
+  {
+    "id": "Sally A. Ward",
+    "name": "Sally A. Ward"
+  },
+  {
+    "id": "Sarah Ella Stoltze",
+    "name": "Sarah Ella Stoltze"
   },
   {
     "id": "Sarah Pinsker",
     "name": "Sarah Pinsker"
   },
   {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
+    "id": "Sarah Pinsker",
+    "name": "Sarah Pinsker"
   },
   {
-    "id": "Chris Beckett",
-    "name": "Chris Beckett"
+    "id": "Sarah Pinsker",
+    "name": "Sarah Pinsker"
+  },
+  {
+    "id": "Sarah Stoltze",
+    "name": "Sarah Stoltze"
+  },
+  {
+    "id": "Shekufe Heiberg",
+    "name": "Shekufe Heiberg"
+  },
+  {
+    "id": "Sidsel",
+    "name": "Sidsel"
+  },
+  {
+    "id": "Sidsel Pedersen (M)",
+    "name": "Sidsel Pedersen (M)"
+  },
+  {
+    "id": "Sidsel Sander Mittet.",
+    "name": "Sidsel Sander Mittet."
+  },
+  {
+    "id": "Stig W Jørgensen",
+    "name": "Stig W Jørgensen"
+  },
+  {
+    "id": "Thomas Recktenwald (tysker) ...",
+    "name": "Thomas Recktenwald (tysker) ..."
+  },
+  {
+    "id": "Tobias",
+    "name": "Tobias"
+  },
+  {
+    "id": "Tue",
+    "name": "Tue"
+  },
+  {
+    "id": "Valdemar Lenschow",
+    "name": "Valdemar Lenschow"
+  },
+  {
+    "id": "Valdemar Lenschow",
+    "name": "Valdemar Lenschow"
+  },
+  {
+    "id": "bÆnji",
+    "name": "bÆnji"
+  },
+  {
+    "id": "dansker",
+    "name": "dansker"
+  },
+  {
+    "id": "musiker bÆnji",
+    "name": "musiker bÆnji"
+  },
+  {
+    "id": "svensker",
+    "name": "svensker"
   }
 ]

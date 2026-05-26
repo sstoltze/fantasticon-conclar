@@ -32,44 +32,51 @@
                               (hash)
                               beskrivelser))
 
-(define programme (filter
-           (lambda (item) (not (string=? (string-trim (hash-ref item 'title)) "")))
-           (second
-                   (foldl (lambda (tidspunkt acc)
-                            (match tidspunkt
-                              [(list dag "" ...) #:when (member (string-trim dag) (list "Fredag" "Lørdag" "Søndag"))
-                                                 (define dato (cond
-                                                                [(string=? dag "Fredag") "2026-06-05"]
-                                                                [(string=? dag "Lørdag") "2026-06-06"]
-                                                             [else "2026-06-07"]))
-                                                 (list dato (second acc))]
-                              [(list tid program ...)
-                               (list (first acc)
-                                     (append (map (lambda (title room)
-                                                    (define trimmed-title (string-trim title))
-                                                    (define info (hash-ref programme-info trimmed-title (hash)))
-                                                    (define-values (start duration) (translate-time tid))
-                                                    (hasheq
-                                                     'id trimmed-title
-                                                     'date (first acc)
-                                                     'format (hash-ref info 'type "")
-                                                     'time start
-                                                     'mins duration
-                                                     'title trimmed-title
-                                                     'loc (list room)
-                                                     'tags (list)
-                                                     'people (hash-ref info 'people (list))
-                                                     'desc (hash-ref info 'desc "")))
-                                                  program
-                                                  lokaler)
-                                             (second acc)))]))
-                          '("" ())
-                          plan))))
+(define programme
+  (sort
+   (filter
+    (lambda (item) (not (string=? (string-trim (hash-ref item 'title)) "")))
+    (second
+     (foldl (lambda (tidspunkt acc)
+              (match tidspunkt
+                [(list dag "" ...) #:when (member (string-trim dag) (list "Fredag" "Lørdag" "Søndag"))
+                                   (define dato (cond
+                                                  [(string=? dag "Fredag") "2026-06-05"]
+                                                  [(string=? dag "Lørdag") "2026-06-06"]
+                                                  [else "2026-06-07"]))
+                                   (list dato (second acc))]
+                [(list tid program ...)
+                 (list (first acc)
+                       (append (map (lambda (title room)
+                                      (define trimmed-title (string-trim title))
+                                      (define info (hash-ref programme-info trimmed-title (hash)))
+                                      (define-values (start duration) (translate-time tid))
+                                      (hasheq
+                                       'id trimmed-title
+                                       'date (first acc)
+                                       'format (hash-ref info 'type "")
+                                       'time start
+                                       'mins duration
+                                       'title trimmed-title
+                                       'loc (list room)
+                                       'tags (list)
+                                       'people (hash-ref info 'people (list))
+                                       'desc (hash-ref info 'desc "")))
+                                    program
+                                    lokaler)
+                               (second acc)))]))
+            '("" ())
+            plan)))
+   string<=?
+   #:key (lambda (h) (hash-ref h 'id))))
 
-(define people (foldl (lambda (p acc) (append (hash-ref p 'people (list))
-                                                 acc))
-                      (list)
-                      programme))
+(define people (sort (foldl (lambda (p acc) (append (hash-ref p 'people (list))
+                                                       acc))
+                               (list)
+                               programme)
+                     string<=?
+                     #:key (lambda (h)
+                             (hash-ref h 'id))))
 
 (with-output-to-file "../public/2026/program.js" #:exists 'replace
   (lambda () (write-json programme #:indent 2)))
