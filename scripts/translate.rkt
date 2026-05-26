@@ -19,8 +19,9 @@
 
 (define programme-info (foldl (lambda (item acc)
                                 (match item
-                                  [(list _ _ _ title desc type _ _ people)
-
+                                  [(list "Arbejdes aktivt på" _ ...)
+                                   acc]
+                                  [(list _ _ _ title desc type _ _ people _ ...)
                                    (hash-set acc (string-trim title) (hasheq 'desc desc
                                                                              'type type
                                                                              'people (map (lambda (p)

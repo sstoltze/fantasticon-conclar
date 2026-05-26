@@ -8,18 +8,6 @@
     "name": "musiker bÆnji"
   },
   {
-    "id": "Jane Mondrup",
-    "name": "Jane Mondrup"
-  },
-  {
-    "id": "Claire Bartlett",
-    "name": "Claire Bartlett"
-  },
-  {
-    "id": "Pernille Lykke",
-    "name": "Pernille Lykke"
-  },
-  {
     "id": "Sarah Ella Stoltze",
     "name": "Sarah Ella Stoltze"
   },
@@ -104,6 +92,18 @@
     "name": "Niels Dalgaard"
   },
   {
+    "id": "Jane Mondrup",
+    "name": "Jane Mondrup"
+  },
+  {
+    "id": "Claire Bartlett",
+    "name": "Claire Bartlett"
+  },
+  {
+    "id": "Pernille Lykke",
+    "name": "Pernille Lykke"
+  },
+  {
     "id": "Klaus Æ Mogensen",
     "name": "Klaus Æ Mogensen"
   },
@@ -132,24 +132,24 @@
     "name": "Asta"
   },
   {
-    "id": "Caroline (m)",
-    "name": "Caroline (m)"
+    "id": "Carolina Gomez Lagerlöf",
+    "name": "Carolina Gomez Lagerlöf"
   },
   {
-    "id": "Sarah Ella Stoltze",
-    "name": "Sarah Ella Stoltze"
+    "id": "Sarah Stoltze",
+    "name": "Sarah Stoltze"
   },
   {
     "id": "Lars Ahn",
     "name": "Lars Ahn"
   },
   {
-    "id": "Sidsel/Jane",
-    "name": "Sidsel/Jane"
+    "id": "Jane Mondrup",
+    "name": "Jane Mondrup"
   },
   {
-    "id": "Jeppe Larsen",
-    "name": "Jeppe Larsen"
+    "id": "Flemming R.P. Rasch (m)",
+    "name": "Flemming R.P. Rasch (m)"
   },
   {
     "id": "Agnethe Poulsen",

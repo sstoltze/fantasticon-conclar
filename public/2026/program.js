@@ -99,9 +99,9 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "Anything you always wanted to ask an author about, but didn't have the chance or the courage, or three of them sitting ready just to answer your specific question? Now is the chance, at the ASK ME ANYTHING, you can literally ask the three distinguished guests anything - they might not answer though. ",
+    "desc": "Anything you always wanted to ask an author about, but didn't have the chance or the courage to ask. Now is the chance, you can literally ask the three distinguished guests anything and hope you get a good answer.",
     "format": "Panel",
-    "id": "Ask me anything with the Guest of Honours",
+    "id": "Ask me anything - with the guests of honour",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -122,7 +122,7 @@
     ],
     "tags": [],
     "time": "15:00",
-    "title": "Ask me anything with the Guest of Honours"
+    "title": "Ask me anything - with the guests of honour"
   },
   {
     "date": "2026-06-07",
@@ -199,7 +199,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "British science fiction writer and special guest Chris Beckett interviewed by Flemming R.P. Rasch",
     "format": "Interview",
     "id": "Interview with Chris Beckett",
     "loc": [
@@ -302,7 +302,7 @@
     "date": "2026-06-07",
     "desc": "",
     "format": "",
-    "id": "Coffee with Sarah Pinsker",
+    "id": "Kaffeeklatsch with Sarah Pinsker",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -310,11 +310,11 @@
     "people": [],
     "tags": [],
     "time": "12:00",
-    "title": "Coffee with Sarah Pinsker"
+    "title": "Kaffeeklatsch with Sarah Pinsker"
   },
   {
     "date": "2026-06-07",
-    "desc": "Et panel om vores kærlighed til genren science fiction, vi snakker om alt fra film til bøger til musik, og hvorfor vi elsker netop den genre. ",
+    "desc": "Why do creators and consumers of fiction love the science fiction genre so much?",
     "format": "Panel",
     "id": "We ❤️ Science fiction",
     "loc": [
@@ -347,38 +347,38 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "A panel on this years Hugo Nominations. The well read panel will discuss this years nominated short stories, novellettes and novels, and they might even recommend one or two.",
+    "desc": "The panel will discuss some of this years Hugo nominated novels and other works, and make a few recommendations.",
     "format": "Panel",
-    "id": "De hugo-nominerede 2026",
+    "id": "Hugo nominees 2026",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [
       {
-        "id": "Caroline (m)",
-        "name": "Caroline (m)"
+        "id": "Carolina Gomez Lagerlöf",
+        "name": "Carolina Gomez Lagerlöf"
       },
       {
-        "id": "Sarah Ella Stoltze",
-        "name": "Sarah Ella Stoltze"
+        "id": "Sarah Stoltze",
+        "name": "Sarah Stoltze"
       },
       {
         "id": "Lars Ahn",
         "name": "Lars Ahn"
       },
       {
-        "id": "Sidsel/Jane",
-        "name": "Sidsel/Jane"
+        "id": "Jane Mondrup",
+        "name": "Jane Mondrup"
       },
       {
-        "id": "Jeppe Larsen",
-        "name": "Jeppe Larsen"
+        "id": "Flemming R.P. Rasch (m)",
+        "name": "Flemming R.P. Rasch (m)"
       }
     ],
     "tags": [],
     "time": "10:00",
-    "title": "De hugo-nominerede 2026"
+    "title": "Hugo nominees 2026"
   },
   {
     "date": "2026-06-07",
@@ -537,7 +537,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Auktion",
+    "id": "Auction",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -550,27 +550,40 @@
     ],
     "tags": [],
     "time": "16:00",
-    "title": "Auktion"
+    "title": "Auction"
   },
   {
     "date": "2026-06-06",
-    "desc": "Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
+    "desc": "A discussion of the complex interrelation between different kinds of connection and craving in stories written by the American SFF-author Octavia E. Butler, a master of the troubling and uncomfortable.\n\n\nBios:\nPernille Lykke står bag profilen Lykkes Læserier på Instagram, hvor hun anmelder og blogger om bøger. Hendes hjerte banker i særlig grad for den spekulative fiktion og genreblandinger med spekulative elementer, men hun læser og anmelder alle genrer og formater.\n\nClaire Eliza Barlett is a writer of fantasy and science fiction for both children and Adults. As a young adult she traveled and studied history and archaeology, and she uses her experiences and learning to write history-inspired SFF. Her most recent novel is \"The Hollow Age,\" which can be found here: https://authorclaire.com/as-cathryn-bankroft/\n\nJane Mondrup writes various kinds of speculative fiction, for adults as well as children. So far, she has published the alternate history novel Zeitgeist, the first contact story Zoi, and the children’s novel Vattes vandring plus a few short stories. Apart from writing, she’s in the con committee for Vilde Universer in Aarhus\n",
     "format": "Panel",
-    "id": "We ❤️ Fantasy",
+    "id": "Octavia E. Butler: Love, Power, Sex, and Addiction",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Jane Mondrup",
+        "name": "Jane Mondrup"
+      },
+      {
+        "id": "Claire Bartlett",
+        "name": "Claire Bartlett"
+      },
+      {
+        "id": "Pernille Lykke",
+        "name": "Pernille Lykke"
+      }
+    ],
     "tags": [],
     "time": "16:00",
-    "title": "We ❤️ Fantasy"
+    "title": "Octavia E. Butler: Love, Power, Sex, and Addiction"
   },
   {
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Coffee with Eugenia Triantafyllou",
+    "id": "Kaffeeklatsch with Eugenia Triantafyllou",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -578,7 +591,7 @@
     "people": [],
     "tags": [],
     "time": "16:00",
-    "title": "Coffee with Eugenia Triantafyllou"
+    "title": "Kaffeeklatsch with Eugenia Triantafyllou"
   },
   {
     "date": "2026-06-06",
@@ -694,7 +707,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Coffee with Chris Beckett",
+    "id": "Kaffeeklatsch with Chris Beckett",
     "loc": [
       "Mødelokale (Stuen)"
     ],
@@ -702,13 +715,13 @@
     "people": [],
     "tags": [],
     "time": "14:00",
-    "title": "Coffee with Chris Beckett"
+    "title": "Kaffeeklatsch with Chris Beckett"
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "What are the challenges of creating a believable world when you are writing fiction in short form?",
     "format": "",
-    "id": "Worldbuilding in Short Fiction",
+    "id": "Worldbuilding in short fiction",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -733,7 +746,7 @@
     ],
     "tags": [],
     "time": "13:00",
-    "title": "Worldbuilding in Short Fiction"
+    "title": "Worldbuilding in short fiction"
   },
   {
     "date": "2026-06-06",
@@ -842,6 +855,20 @@
   },
   {
     "date": "2026-06-06",
+    "desc": "Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
+    "format": "Panel",
+    "id": "We ❤️ Fantasy",
+    "loc": [
+      "Store sal (3. sal)"
+    ],
+    "mins": "30",
+    "people": [],
+    "tags": [],
+    "time": "11:00",
+    "title": "We ❤️ Fantasy"
+  },
+  {
+    "date": "2026-06-06",
     "desc": "",
     "format": "",
     "id": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET",
@@ -856,30 +883,17 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "A discussion of the complex interrelation between different kinds of connection and craving in stories written by the American SFF-author Octavia E. Butler, a master of the troubling and uncomfortable.\n\n\nBios:\nPernille Lykke står bag profilen Lykkes Læserier på Instagram, hvor hun anmelder og blogger om bøger. Hendes hjerte banker i særlig grad for den spekulative fiktion og genreblandinger med spekulative elementer, men hun læser og anmelder alle genrer og formater.\n\nClaire Eliza Barlett is a writer of fantasy and science fiction for both children and Adults. As a young adult she traveled and studied history and archaeology, and she uses her experiences and learning to write history-inspired SFF. Her most recent novel is \"The Hollow Age,\" which can be found here: https://authorclaire.com/as-cathryn-bankroft/\n\nJane Mondrup writes various kinds of speculative fiction, for adults as well as children. So far, she has published the alternate history novel Zeitgeist, the first contact story Zoi, and the children’s novel Vattes vandring plus a few short stories. Apart from writing, she’s in the con committee for Vilde Universer in Aarhus\n",
+    "desc": "Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
     "format": "Panel",
-    "id": "Octavia E. Butler: Love, Power, Sex, and Addiction",
+    "id": "We ❤️ Fantasy",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [
-      {
-        "id": "Jane Mondrup",
-        "name": "Jane Mondrup"
-      },
-      {
-        "id": "Claire Bartlett",
-        "name": "Claire Bartlett"
-      },
-      {
-        "id": "Pernille Lykke",
-        "name": "Pernille Lykke"
-      }
-    ],
+    "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Octavia E. Butler: Love, Power, Sex, and Addiction"
+    "title": "We ❤️ Fantasy"
   },
   {
     "date": "2026-06-06",
@@ -922,7 +936,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Velkommen JRJ - plus introduktion til æresgæster - FR",
+    "id": "Welcome and presentation of our guests of honour",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -930,7 +944,7 @@
     "people": [],
     "tags": [],
     "time": "10:00",
-    "title": "Velkommen JRJ - plus introduktion til æresgæster - FR"
+    "title": "Welcome and presentation of our guests of honour"
   },
   {
     "date": "2026-06-06",
