@@ -92,6 +92,20 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
+    "id": "At oversætte Fantatisk litteratur",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "15:00",
+    "title": "At oversætte Fantatisk litteratur"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "As per tradition, their will be a book auction at Fantasticon. So bring your used fantasy, science fiction, and horror books. The ones that were not right for you; the ones you loved but will not have time to read again.\nAnd join us Saturday afternoon and bring home new darlings while supporting the con.",
+    "format": "",
     "id": "Auction",
     "loc": [
       "Store sal (3. sal)"
@@ -126,6 +140,31 @@
     "tags": [],
     "time": "16:00",
     "title": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS"
+  },
+  {
+    "date": "2026-06-07",
+    "desc": "Chinese fantasy\r\nEast Asian-style fantasy has had a growing influence on Western fantasy in the past few years, helped by the ever-expanding popularity of kpop and anime. However, this talk will give an introduction to Chinese fantasy, a genre that is getting more and more recognition outside of Asia, especially with the animated movie Nezha 2, which last year became one of the worldwide highest grossing movies ever made. This presentation will try to explain some of the main concepts of Chinese fantasy, what makes it unique, and where to start if you want to explore what contemporary Chinese fantasy has to offer, be it books, movies, or TV dramas. ",
+    "format": "Foredrag",
+    "id": "Chinese fantasy",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [
+      {
+        "id": "Agnethe Poulsen",
+        "name": "Agnethe Poulsen"
+      }
+    ],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
+    "time": "11:00",
+    "title": "Chinese fantasy"
   },
   {
     "date": "2026-06-07",
@@ -302,7 +341,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "British science fiction writer and special guest Chris Beckett interviewed by Flemming R.P. Rasch",
+    "desc": "Chris Beckett was a social worker prior to becoming a science fiction writer. He started writing short fiction in the 1990s. In 2004 he published his first novel, The Holy Machine, with themes of religion, science and rationality. His next two novels, Marcher and Dark Eden were both based on earlier short stories. The latter, a novel set on a far away colony planet, won the Arthur C. Clarke award for best science fiction novel of 2012. Beckett contiued to write short fiction while working on his later novels. His ninth novel Tomorrow is from 2021, about a man trying to write the ultimate novel.",
     "format": "Interview",
     "id": "Interview with Chris Beckett",
     "loc": [
@@ -331,7 +370,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Eugenia Triantafyllou is a Greek author and artist with a flair for dark things. Her work has won the British Fantasy and the Shirley Jackson Awards and has been nominated for the Hugo, Ignyte, Locus, Nebula, and World Fantasy Awards. She is a graduate of Clarion West Writers Workshop. You can find her stories in Reactor, Uncanny, Strange Horizons, Apex, and other venues.\n",
     "format": "Interview",
     "id": "Interview with Eugenia Triantafyllou",
     "loc": [
@@ -360,7 +399,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Sarah Pinsker  is the author of over sixty works of short fiction, one novella, two novels, and two collections. Her work has won four Nebula Awards (Best Novel, A Song For A New Day; Best Novelette, \"Our Lady of the Open Road,\" Best Novelette, \"Two Truths And A Lie,\" Best Short Story, \"Where Oaken Hearts Do Gather,\"), two Hugo Awards (\"Two Truths And a Lie\" and \"Where Oaken Hearts Do Gather\"), the Philip K Dick Award, the Locus Award, the Eugie Foster Award, and the Theodore Sturgeon Award, and been nominated for numerous Nebula, Hugo, Locus, and World Fantasy Awards. Her fiction has been translated into almost a dozen languages and published in magazines including Asimov's, Strange Horizons, Fantasy & Science Fiction, and Uncanny and in many anthologies and year's bests. \nSarah's first collection, the Philip K Dick Award winning Sooner or Later Everything Falls Into the Sea: Stories, was published by Small Beer Press in 2019, and her first novel, A Song For A New Day, was published by Penguin/Random House/Berkley in  2019. It was followed by We Are Satellites, published in 2021. Her second collection, Lost Places, was published by Small Beer Press in  2023. Tordotcom novella Haunt Sweet Home appeared in September 2024.\nShe is also a singer/songwriter with four albums on various independent labels (the third with her rock band, the Stalking Horses).",
     "format": "Interview",
     "id": "Interview with Sarah Pinsker",
     "loc": [
@@ -475,31 +514,6 @@
     ],
     "time": "12:00",
     "title": "Kaffeeklatsch with Sarah Pinsker"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "Kinesisk fantasy, som er ved at blive mere populært. Især kinesisk queer fantasy, den såkaldte danmei, kan nu købes herhjemme i engelsk oversættelse, selv bibliotekerne køber det ind. Det virker dog stadig til at være en genre,som ikke er særlig kendt i Danmark,men Jasmin Hansen har et oplæg, der kan fungere som en slags 'starterpack' til hvordan man udforsker genren mht film, tv-serier og bøger.",
-    "format": "Foredrag",
-    "id": "Kinesisk fantasy",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Agnethe Poulsen",
-        "name": "Agnethe Poulsen"
-      }
-    ],
-    "tags": [
-      {
-        "category": "language",
-        "label": "Dansk",
-        "value": "Dansk"
-      }
-    ],
-    "time": "11:00",
-    "title": "Kinesisk fantasy"
   },
   {
     "date": "2026-06-07",
@@ -761,35 +775,6 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "Interview",
-    "id": "Samtale om oversættelse af Fantatisk litteratur",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Jakob Levinsen",
-        "name": "Jakob Levinsen"
-      },
-      {
-        "id": "Stig W Jørgensen",
-        "name": "Stig W Jørgensen"
-      }
-    ],
-    "tags": [
-      {
-        "category": "language",
-        "label": "Dansk",
-        "value": "Dansk"
-      }
-    ],
-    "time": "15:00",
-    "title": "Samtale om oversættelse af Fantatisk litteratur"
-  },
-  {
-    "date": "2026-06-06",
     "desc": "Hvis man vil være med, så kommer man med bogen man anbefaler. 1:1 on books. Fortæl det en anden person i et minut, og den anden fortæller sin bog til dig. Fløjten lyder og alle skifter til en anden partner.",
     "format": "Publikumsaktivitet",
     "id": "Speeddate en bog",
@@ -1018,7 +1003,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "How to write a reading journal. Sidsel Petersen present her unique approach to journaling.",
     "format": "Workshop",
     "id": "Workshop: Reading Journals",
     "loc": [

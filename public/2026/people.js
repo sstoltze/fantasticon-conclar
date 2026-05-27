@@ -88,10 +88,6 @@
     "name": "Ian Sales"
   },
   {
-    "id": "Jakob Levinsen",
-    "name": "Jakob Levinsen"
-  },
-  {
     "id": "Jane Mondrup",
     "name": "Jane Mondrup"
   },
@@ -202,10 +198,6 @@
   {
     "id": "Sidsel Sander Mittet.",
     "name": "Sidsel Sander Mittet."
-  },
-  {
-    "id": "Stig W Jørgensen",
-    "name": "Stig W Jørgensen"
   },
   {
     "id": "Thomas Recktenwald (tysker) ...",
