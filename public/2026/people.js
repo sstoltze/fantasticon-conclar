@@ -132,10 +132,6 @@
     "name": "Nanna Grønbech Petersen"
   },
   {
-    "id": "Nanna Grønbech Petersen",
-    "name": "Nanna Grønbech Petersen"
-  },
-  {
     "id": "Niels Dalgaard",
     "name": "Niels Dalgaard"
   },
@@ -214,10 +210,6 @@
   {
     "id": "dansker",
     "name": "dansker"
-  },
-  {
-    "id": "musiker bÆnji",
-    "name": "musiker bÆnji"
   },
   {
     "id": "svensker",

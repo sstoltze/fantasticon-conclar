@@ -603,15 +603,15 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER",
+    "id": "Redaktør Rene Roar Thygesen og udvalgte forfattere fra Årsantologien PLANLAGT FORÆLDELSE samtaler om noveller, skrivning, konkurrencer, etc.",
     "loc": [
       "Biblioteket"
     ],
-    "mins": "30",
+    "mins": "45",
     "people": [],
     "tags": [],
-    "time": "11:30",
-    "title": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
+    "time": "14:00",
+    "title": "Redaktør Rene Roar Thygesen og udvalgte forfattere fra Årsantologien PLANLAGT FORÆLDELSE samtaler om noveller, skrivning, konkurrencer, etc."
   },
   {
     "date": "2026-06-06",
@@ -624,7 +624,7 @@
     "mins": "30",
     "people": [],
     "tags": [],
-    "time": "12:00",
+    "time": "11:30",
     "title": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
   },
   {
@@ -694,7 +694,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "What is going on in European Fantastical literature. A panel of Europeans will sit down and discuss how genre literature is faring in todays Europe",
+    "desc": "European fantastic literature, how is it special? Are there any specific European traits? Is fantasy, horror, and science fiction alike all over Europe or are there regional differences. What is going on in European Fantastical literature. A panel of Europeans will sit down and discuss how genre literature is faring in todays Europe",
     "format": "Panel",
     "id": "State of the Union: European Fantastical Litterature",
     "loc": [
@@ -761,29 +761,6 @@
     "tags": [],
     "time": "12:00",
     "title": "Tamora Pierces forfatterskab"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "Talk mellem forfatter Nanna Grønbech Petersen og musiker bÆnji om tekstskrivning, processer, kreativitet og inspirationer.",
-    "format": "",
-    "id": "Tekstskrivning, processer, kreativitet og inspirationer.",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Nanna Grønbech Petersen",
-        "name": "Nanna Grønbech Petersen"
-      },
-      {
-        "id": "musiker bÆnji",
-        "name": "musiker bÆnji"
-      }
-    ],
-    "tags": [],
-    "time": "11:00",
-    "title": "Tekstskrivning, processer, kreativitet og inspirationer."
   },
   {
     "date": "2026-06-06",
