@@ -812,24 +812,16 @@
     "mins": "45",
     "people": [
       {
-        "id": "svensker",
-        "name": "svensker"
-      },
-      {
-        "id": "dansker",
-        "name": "dansker"
-      },
-      {
         "id": "Ian Sales",
         "name": "Ian Sales"
       },
       {
-        "id": "Eugenia Triantafyllou (græker)",
-        "name": "Eugenia Triantafyllou (græker)"
+        "id": "Eugenia Triantafyllou",
+        "name": "Eugenia Triantafyllou"
       },
       {
-        "id": "Thomas Recktenwald (tysker) ...",
-        "name": "Thomas Recktenwald (tysker) ..."
+        "id": "Thomas Recktenwald",
+        "name": "Thomas Recktenwald"
       }
     ],
     "tags": [
@@ -951,10 +943,6 @@
       {
         "id": "Sidsel",
         "name": "Sidsel"
-      },
-      {
-        "id": "XXX",
-        "name": "XXX"
       }
     ],
     "tags": [

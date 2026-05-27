@@ -68,8 +68,8 @@
     "name": "Eugenia Triantafyllou"
   },
   {
-    "id": "Eugenia Triantafyllou (græker)",
-    "name": "Eugenia Triantafyllou (græker)"
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
   },
   {
     "id": "Flemming R.P. Rasch",
@@ -200,8 +200,8 @@
     "name": "Sidsel Sander Mittet."
   },
   {
-    "id": "Thomas Recktenwald (tysker) ...",
-    "name": "Thomas Recktenwald (tysker) ..."
+    "id": "Thomas Recktenwald",
+    "name": "Thomas Recktenwald"
   },
   {
     "id": "Tobias",
@@ -224,19 +224,7 @@
     "name": "Valdemar Lenschow"
   },
   {
-    "id": "XXX",
-    "name": "XXX"
-  },
-  {
     "id": "bÆnji",
     "name": "bÆnji"
-  },
-  {
-    "id": "dansker",
-    "name": "dansker"
-  },
-  {
-    "id": "svensker",
-    "name": "svensker"
   }
 ]
