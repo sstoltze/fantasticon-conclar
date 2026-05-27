@@ -8,10 +8,6 @@
     "name": "Agnethe Poulsen"
   },
   {
-    "id": "Anne Marie Vedsø-Olesen",
-    "name": "Anne Marie Vedsø-Olesen"
-  },
-  {
     "id": "Anton Binder",
     "name": "Anton Binder"
   },

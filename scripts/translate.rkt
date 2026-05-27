@@ -21,13 +21,15 @@
                                 (match item
                                   [(list "Arbejdes aktivt på" _ ...)
                                    acc]
-                                  [(list _ _ _ title desc type _ _ people _ ...)
+                                  [(list _ _ _ title desc type _ _ people language _ ...)
                                    (hash-set acc (string-trim title) (hasheq 'desc desc
                                                                              'type type
                                                                              'people (map (lambda (p)
                                                                                             (hasheq 'id (string-trim p)
                                                                                                     'name (string-trim p)))
-                                                                                          (string-split people ","))))]
+                                                                                          (string-split people ","))
+                                                                             'tags (map (lambda (l) (list (format "Language: ~A" l)))
+                                                                                        (string-split language ","))))]
                                   [_ acc]))
                               (hash)
                               beskrivelser))
@@ -59,7 +61,7 @@
                                        'mins duration
                                        'title trimmed-title
                                        'loc (list room)
-                                       'tags (list)
+                                       'tags (hash-ref info 'tags (list))
                                        'people (hash-ref info 'people (list))
                                        'desc (hash-ref info 'desc "")))
                                     program

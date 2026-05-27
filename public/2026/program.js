@@ -45,7 +45,11 @@
         "name": "Agnethe Poulsen"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ]
+    ],
     "time": "14:00",
     "title": "Arthurmyterne i litteraturen"
   },
@@ -72,7 +76,11 @@
         "name": "Chris Beckett"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "15:00",
     "title": "Ask me anything - with the guests of honour"
   },
@@ -91,7 +99,11 @@
         "name": "Klaus Æ Mogensen"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "16:00",
     "title": "Auction"
   },
@@ -180,25 +192,6 @@
     "title": "Farvel og tak - fra alle os"
   },
   {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "Interview",
-    "id": "Flammesværdet ... Hele serien",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Anne Marie Vedsø-Olesen",
-        "name": "Anne Marie Vedsø-Olesen"
-      }
-    ],
-    "tags": [],
-    "time": "13:00",
-    "title": "Flammesværdet ... Hele serien"
-  },
-  {
     "date": "2026-06-07",
     "desc": "What does love look like in the genre of horror? Does it aid the good, does it conquer the bad, or is it a corrupting force? Is a mother's love as monstrous as in the fairytales?  Is there something hidden in the dark recesses of a woman's love for her offspring? And what is romance, if not literally all consuming? And a little gross, sticky and bloody? We will explore these questions in this lovely and horrific panel.",
     "format": "Panel",
@@ -221,7 +214,11 @@
         "name": "Marianne"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "14:00",
     "title": "Gross Love - love in horror"
   },
@@ -244,7 +241,11 @@
         "name": "Sally A. Ward"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "17:00",
     "title": "How to Marry A Witch"
   },
@@ -279,7 +280,11 @@
         "name": "Flemming R.P. Rasch (m)"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "10:00",
     "title": "Hugo nominees 2026"
   },
@@ -302,7 +307,11 @@
         "name": "Flemming R.P. Rasch"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "13:00",
     "title": "Interview with Chris Beckett"
   },
@@ -325,7 +334,11 @@
         "name": "Tobias"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "12:00",
     "title": "Interview with Eugenia Triantafyllou"
   },
@@ -348,7 +361,11 @@
         "name": "Niels Dalgaard"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "15:00",
     "title": "Interview with Sarah Pinsker"
   },
@@ -381,7 +398,11 @@
         "name": "Chris Beckett"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "14:00",
     "title": "Kaffeeklatsch with Chris Beckett"
   },
@@ -400,7 +421,11 @@
         "name": "Eugenia Triantafyllou"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "16:00",
     "title": "Kaffeeklatsch with Eugenia Triantafyllou"
   },
@@ -419,7 +444,11 @@
         "name": "Sarah Pinsker"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "12:00",
     "title": "Kaffeeklatsch with Sarah Pinsker"
   },
@@ -438,7 +467,11 @@
         "name": "Agnethe Poulsen"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ]
+    ],
     "time": "11:00",
     "title": "Kinesisk fantasy"
   },
@@ -457,7 +490,11 @@
         "name": "Shekufe Heiberg"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "13:00",
     "title": "Lunarpunk"
   },
@@ -504,7 +541,11 @@
         "name": "Valdemar Lenschow"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ]
+    ],
     "time": "17:00",
     "title": "Merlin og Monopolet - dilemmaer i fantasyland"
   },
@@ -541,7 +582,14 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ],
+      [
+        "Language:  English"
+      ]
+    ],
     "time": "11:00",
     "title": "Møde mellem fans - mød en ny ven"
   },
@@ -564,7 +612,11 @@
         "name": "bÆnji"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ]
+    ],
     "time": "15:00",
     "title": "N. B. - Epik & musik."
   },
@@ -591,7 +643,11 @@
         "name": "Pernille Lykke"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "16:00",
     "title": "Octavia E. Butler: Love, Power, Sex, and Addiction"
   },
@@ -655,7 +711,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Restaurant MOAB",
+    "id": "Restaurant MOSOB",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -663,7 +719,7 @@
     "people": [],
     "tags": [],
     "time": "19:00",
-    "title": "Restaurant MOAB"
+    "title": "Restaurant MOSOB"
   },
   {
     "date": "2026-06-06",
@@ -684,7 +740,11 @@
         "name": "Stig W Jørgensen"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ]
+    ],
     "time": "15:00",
     "title": "Samtale om oversættelse af Fantatisk litteratur"
   },
@@ -747,7 +807,11 @@
         "name": "Thomas Recktenwald (tysker) ..."
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "12:00",
     "title": "State of the Union: European Fantastical Litterature"
   },
@@ -782,7 +846,11 @@
         "name": "Sidsel Sander Mittet."
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ]
+    ],
     "time": "12:00",
     "title": "Tamora Pierces forfatterskab"
   },
@@ -809,9 +877,27 @@
         "name": "Karsten Brandt-Knudsen"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: Dansk"
+      ]
+    ],
     "time": "14:00",
     "title": "Vi🫀Horror"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "",
+    "format": "",
+    "id": "Vølvens Vej - Interview med Anne-Marie Vedsø Olsen",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "13:00",
+    "title": "Vølvens Vej - Interview med Anne-Marie Vedsø Olsen"
   },
   {
     "date": "2026-06-06",
@@ -840,7 +926,11 @@
         "name": "XXX"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "11:00",
     "title": "We ❤️ Fantasy"
   },
@@ -854,7 +944,11 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "11:00",
     "title": "We ❤️ Science fiction"
   },
@@ -918,7 +1012,11 @@
         "name": "Flemming Rasch (m)"
       }
     ],
-    "tags": [],
+    "tags": [
+      [
+        "Language: English"
+      ]
+    ],
     "time": "13:00",
     "title": "Worldbuilding in short fiction"
   }
