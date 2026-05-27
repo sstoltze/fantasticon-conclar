@@ -292,7 +292,16 @@
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Chris Beckett",
+        "name": "Chris Beckett"
+      },
+      {
+        "id": "Flemming R.P. Rasch",
+        "name": "Flemming R.P. Rasch"
+      }
+    ],
     "tags": [],
     "time": "13:00",
     "title": "Interview with Chris Beckett"
@@ -359,42 +368,57 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "",
+    "desc": "Come and meet Chris Beckett, and have a cup of coffee with him. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any perparation.",
+    "format": "Publikumsaktivitet",
     "id": "Kaffeeklatsch with Chris Beckett",
     "loc": [
       "Mødelokale (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Chris Beckett",
+        "name": "Chris Beckett"
+      }
+    ],
     "tags": [],
     "time": "14:00",
     "title": "Kaffeeklatsch with Chris Beckett"
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Come and meet Eugenia Triantafyllou, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any perparation.",
     "format": "",
     "id": "Kaffeeklatsch with Eugenia Triantafyllou",
     "loc": [
       "Mødelokale (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Eugenia Triantafyllou",
+        "name": "Eugenia Triantafyllou"
+      }
+    ],
     "tags": [],
     "time": "16:00",
     "title": "Kaffeeklatsch with Eugenia Triantafyllou"
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "Come and meet Sarah Pinkser, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any perparation.",
     "format": "",
     "id": "Kaffeeklatsch with Sarah Pinsker",
     "loc": [
       "Mødelokale (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sarah Pinsker",
+        "name": "Sarah Pinsker"
+      }
+    ],
     "tags": [],
     "time": "12:00",
     "title": "Kaffeeklatsch with Sarah Pinsker"
@@ -798,7 +822,24 @@
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Jesper",
+        "name": "Jesper"
+      },
+      {
+        "id": "Tobias",
+        "name": "Tobias"
+      },
+      {
+        "id": "Sidsel",
+        "name": "Sidsel"
+      },
+      {
+        "id": "XXX",
+        "name": "XXX"
+      }
+    ],
     "tags": [],
     "time": "11:00",
     "title": "We ❤️ Fantasy"

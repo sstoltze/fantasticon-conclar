@@ -40,6 +40,14 @@
     "name": "Chris Beckett"
   },
   {
+    "id": "Chris Beckett",
+    "name": "Chris Beckett"
+  },
+  {
+    "id": "Chris Beckett",
+    "name": "Chris Beckett"
+  },
+  {
     "id": "Claire Bartlett",
     "name": "Claire Bartlett"
   },
@@ -60,8 +68,16 @@
     "name": "Eugenia Triantafyllou"
   },
   {
+    "id": "Eugenia Triantafyllou",
+    "name": "Eugenia Triantafyllou"
+  },
+  {
     "id": "Eugenia Triantafyllou (græker)",
     "name": "Eugenia Triantafyllou (græker)"
+  },
+  {
+    "id": "Flemming R.P. Rasch",
+    "name": "Flemming R.P. Rasch"
   },
   {
     "id": "Flemming R.P. Rasch (m)",
@@ -90,6 +106,10 @@
   {
     "id": "Jasmin",
     "name": "Jasmin"
+  },
+  {
+    "id": "Jesper",
+    "name": "Jesper"
   },
   {
     "id": "Jesper",
@@ -160,12 +180,20 @@
     "name": "Sarah Pinsker"
   },
   {
+    "id": "Sarah Pinsker",
+    "name": "Sarah Pinsker"
+  },
+  {
     "id": "Sarah Stoltze",
     "name": "Sarah Stoltze"
   },
   {
     "id": "Shekufe Heiberg",
     "name": "Shekufe Heiberg"
+  },
+  {
+    "id": "Sidsel",
+    "name": "Sidsel"
   },
   {
     "id": "Sidsel",
@@ -192,6 +220,10 @@
     "name": "Tobias"
   },
   {
+    "id": "Tobias",
+    "name": "Tobias"
+  },
+  {
     "id": "Tue",
     "name": "Tue"
   },
@@ -202,6 +234,10 @@
   {
     "id": "Valdemar Lenschow",
     "name": "Valdemar Lenschow"
+  },
+  {
+    "id": "XXX",
+    "name": "XXX"
   },
   {
     "id": "bÆnji",
