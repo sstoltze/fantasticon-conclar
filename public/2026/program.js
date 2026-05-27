@@ -18,8 +18,8 @@
         "name": "Maria"
       },
       {
-        "id": "Asta",
-        "name": "Asta"
+        "id": "Asta Jersø",
+        "name": "Asta Jersø"
       }
     ],
     "tags": [],
@@ -52,7 +52,7 @@
         "value": "Dansk"
       }
     ],
-    "time": "14:00",
+    "time": "11:00",
     "title": "Arthurmyterne i litteraturen"
   },
   {
@@ -251,12 +251,12 @@
         "name": "Eugenia Triantafyllou"
       },
       {
-        "id": "Asta",
-        "name": "Asta"
+        "id": "Asta Jersø",
+        "name": "Asta Jersø"
       },
       {
-        "id": "Marianne",
-        "name": "Marianne"
+        "id": "Mariane Mide",
+        "name": "Mariane Mide"
       }
     ],
     "tags": [
@@ -325,8 +325,8 @@
         "name": "Jane Mondrup"
       },
       {
-        "id": "Flemming R.P. Rasch (m)",
-        "name": "Flemming R.P. Rasch (m)"
+        "id": "Flemming R.P. Rasch",
+        "name": "Flemming R.P. Rasch"
       }
     ],
     "tags": [
@@ -453,6 +453,10 @@
       {
         "id": "Chris Beckett",
         "name": "Chris Beckett"
+      },
+      {
+        "id": "you",
+        "name": "you"
       }
     ],
     "tags": [
@@ -478,6 +482,10 @@
       {
         "id": "Eugenia Triantafyllou",
         "name": "Eugenia Triantafyllou"
+      },
+      {
+        "id": "you",
+        "name": "you"
       }
     ],
     "tags": [
@@ -503,6 +511,10 @@
       {
         "id": "Sarah Pinsker",
         "name": "Sarah Pinsker"
+      },
+      {
+        "id": "you",
+        "name": "you"
       }
     ],
     "tags": [
@@ -676,7 +688,7 @@
     "format": "Panel",
     "id": "Octavia E. Butler: Love, Power, Sex, and Addiction",
     "loc": [
-      "Lille sal (Stuen)"
+      "Store sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -700,7 +712,7 @@
         "value": "English"
       }
     ],
-    "time": "16:00",
+    "time": "14:00",
     "title": "Octavia E. Butler: Love, Power, Sex, and Addiction"
   },
   {
@@ -772,6 +784,20 @@
     "tags": [],
     "time": "19:00",
     "title": "Restaurant MOSOB"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "",
+    "format": "",
+    "id": "Science Fiction romancer",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [],
+    "tags": [],
+    "time": "11:00",
+    "title": "Science Fiction romancer"
   },
   {
     "date": "2026-06-06",
@@ -928,7 +954,7 @@
     "format": "Panel",
     "id": "We ❤️ Fantasy",
     "loc": [
-      "Store sal (3. sal)"
+      "Lille sal (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -952,7 +978,7 @@
         "value": "English"
       }
     ],
-    "time": "11:00",
+    "time": "16:00",
     "title": "We ❤️ Fantasy"
   },
   {
@@ -1031,8 +1057,8 @@
         "name": "Sarah Pinsker"
       },
       {
-        "id": "Flemming Rasch (m)",
-        "name": "Flemming Rasch (m)"
+        "id": "Flemming R.P. Rasch",
+        "name": "Flemming R.P. Rasch"
       }
     ],
     "tags": [

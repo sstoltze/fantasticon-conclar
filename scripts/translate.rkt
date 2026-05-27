@@ -75,13 +75,15 @@
    string<=?
    #:key (lambda (h) (hash-ref h 'id))))
 
-(define people (sort (foldl (lambda (p acc) (append (hash-ref p 'people (list))
-                                                       acc))
-                               (list)
-                               programme)
-                     string<=?
-                     #:key (lambda (h)
-                             (hash-ref h 'id))))
+(define people (remove-duplicates (sort (foldl (lambda (p acc) (append (hash-ref p 'people (list))
+                                                                       acc))
+                                               (list)
+                                               programme)
+                                        string<=?
+                                              #:key (lambda (h)
+                                                (hash-ref h 'id)))
+                                        #:key (lambda (h)
+                                                (hash-ref h 'id))))
 
 (with-output-to-file "../public/2026/program.js" #:exists 'replace
   (lambda () (write-json programme #:indent 2)))

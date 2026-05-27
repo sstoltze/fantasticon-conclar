@@ -4,20 +4,8 @@
     "name": "Agnethe Poulsen"
   },
   {
-    "id": "Agnethe Poulsen",
-    "name": "Agnethe Poulsen"
-  },
-  {
     "id": "Anton Binder",
     "name": "Anton Binder"
-  },
-  {
-    "id": "Asta",
-    "name": "Asta"
-  },
-  {
-    "id": "Asta",
-    "name": "Asta"
   },
   {
     "id": "Asta Jersø",
@@ -32,40 +20,8 @@
     "name": "Chris Beckett"
   },
   {
-    "id": "Chris Beckett",
-    "name": "Chris Beckett"
-  },
-  {
-    "id": "Chris Beckett",
-    "name": "Chris Beckett"
-  },
-  {
-    "id": "Chris Beckett",
-    "name": "Chris Beckett"
-  },
-  {
     "id": "Claire Bartlett",
     "name": "Claire Bartlett"
-  },
-  {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
-  },
-  {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
-  },
-  {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
-  },
-  {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
-  },
-  {
-    "id": "Eugenia Triantafyllou",
-    "name": "Eugenia Triantafyllou"
   },
   {
     "id": "Eugenia Triantafyllou",
@@ -76,14 +32,6 @@
     "name": "Flemming R.P. Rasch"
   },
   {
-    "id": "Flemming R.P. Rasch (m)",
-    "name": "Flemming R.P. Rasch (m)"
-  },
-  {
-    "id": "Flemming Rasch (m)",
-    "name": "Flemming Rasch (m)"
-  },
-  {
     "id": "Ian Sales",
     "name": "Ian Sales"
   },
@@ -92,16 +40,8 @@
     "name": "Jane Mondrup"
   },
   {
-    "id": "Jane Mondrup",
-    "name": "Jane Mondrup"
-  },
-  {
     "id": "Jasmin",
     "name": "Jasmin"
-  },
-  {
-    "id": "Jesper",
-    "name": "Jesper"
   },
   {
     "id": "Jesper",
@@ -132,14 +72,6 @@
     "name": "Mariane Mide"
   },
   {
-    "id": "Mariane Mide",
-    "name": "Mariane Mide"
-  },
-  {
-    "id": "Marianne",
-    "name": "Marianne"
-  },
-  {
     "id": "Nanna Grønbech Petersen",
     "name": "Nanna Grønbech Petersen"
   },
@@ -164,28 +96,12 @@
     "name": "Sarah Pinsker"
   },
   {
-    "id": "Sarah Pinsker",
-    "name": "Sarah Pinsker"
-  },
-  {
-    "id": "Sarah Pinsker",
-    "name": "Sarah Pinsker"
-  },
-  {
-    "id": "Sarah Pinsker",
-    "name": "Sarah Pinsker"
-  },
-  {
     "id": "Sarah Stoltze",
     "name": "Sarah Stoltze"
   },
   {
     "id": "Shekufe Heiberg",
     "name": "Shekufe Heiberg"
-  },
-  {
-    "id": "Sidsel",
-    "name": "Sidsel"
   },
   {
     "id": "Sidsel",
@@ -208,10 +124,6 @@
     "name": "Tobias"
   },
   {
-    "id": "Tobias",
-    "name": "Tobias"
-  },
-  {
     "id": "Tue",
     "name": "Tue"
   },
@@ -220,11 +132,11 @@
     "name": "Valdemar Lenschow"
   },
   {
-    "id": "Valdemar Lenschow",
-    "name": "Valdemar Lenschow"
-  },
-  {
     "id": "bÆnji",
     "name": "bÆnji"
+  },
+  {
+    "id": "you",
+    "name": "you"
   }
 ]
