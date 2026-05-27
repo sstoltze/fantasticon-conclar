@@ -46,9 +46,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: Dansk"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
     ],
     "time": "14:00",
     "title": "Arthurmyterne i litteraturen"
@@ -77,9 +79,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "15:00",
     "title": "Ask me anything - with the guests of honour"
@@ -100,9 +104,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "16:00",
     "title": "Auction"
@@ -215,9 +221,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "14:00",
     "title": "Gross Love - love in horror"
@@ -242,9 +250,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "17:00",
     "title": "How to Marry A Witch"
@@ -281,9 +291,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "10:00",
     "title": "Hugo nominees 2026"
@@ -308,9 +320,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "13:00",
     "title": "Interview with Chris Beckett"
@@ -335,9 +349,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "12:00",
     "title": "Interview with Eugenia Triantafyllou"
@@ -362,9 +378,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "15:00",
     "title": "Interview with Sarah Pinsker"
@@ -399,9 +417,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "14:00",
     "title": "Kaffeeklatsch with Chris Beckett"
@@ -422,9 +442,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "16:00",
     "title": "Kaffeeklatsch with Eugenia Triantafyllou"
@@ -445,9 +467,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "12:00",
     "title": "Kaffeeklatsch with Sarah Pinsker"
@@ -468,9 +492,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: Dansk"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
     ],
     "time": "11:00",
     "title": "Kinesisk fantasy"
@@ -491,9 +517,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "13:00",
     "title": "Lunarpunk"
@@ -542,9 +570,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: Dansk"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
     ],
     "time": "17:00",
     "title": "Merlin og Monopolet - dilemmaer i fantasyland"
@@ -583,12 +613,16 @@
     "mins": "45",
     "people": [],
     "tags": [
-      [
-        "Language: Dansk"
-      ],
-      [
-        "Language:  English"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      },
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "11:00",
     "title": "Møde mellem fans - mød en ny ven"
@@ -613,9 +647,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: Dansk"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
     ],
     "time": "15:00",
     "title": "N. B. - Epik & musik."
@@ -644,9 +680,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "16:00",
     "title": "Octavia E. Butler: Love, Power, Sex, and Addiction"
@@ -741,9 +779,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: Dansk"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
     ],
     "time": "15:00",
     "title": "Samtale om oversættelse af Fantatisk litteratur"
@@ -808,9 +848,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "12:00",
     "title": "State of the Union: European Fantastical Litterature"
@@ -847,9 +889,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: Dansk"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
     ],
     "time": "12:00",
     "title": "Tamora Pierces forfatterskab"
@@ -878,9 +922,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: Dansk"
-      ]
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
     ],
     "time": "14:00",
     "title": "Vi🫀Horror"
@@ -927,9 +973,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "11:00",
     "title": "We ❤️ Fantasy"
@@ -945,9 +993,11 @@
     "mins": "45",
     "people": [],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "11:00",
     "title": "We ❤️ Science fiction"
@@ -1013,9 +1063,11 @@
       }
     ],
     "tags": [
-      [
-        "Language: English"
-      ]
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
     ],
     "time": "13:00",
     "title": "Worldbuilding in short fiction"

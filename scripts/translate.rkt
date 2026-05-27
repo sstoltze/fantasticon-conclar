@@ -28,7 +28,9 @@
                                                                                             (hasheq 'id (string-trim p)
                                                                                                     'name (string-trim p)))
                                                                                           (string-split people ","))
-                                                                             'tags (map (lambda (l) (list (format "Language: ~A" l)))
+                                                                             'tags (map (lambda (l) (hasheq 'value (string-trim l)
+                                                                                                            'category "language"
+                                                                                                            'label (string-trim l)))
                                                                                         (string-split language ","))))]
                                   [_ acc]))
                               (hash)
@@ -53,6 +55,7 @@
                                       (define trimmed-title (string-trim title))
                                       (define info (hash-ref programme-info trimmed-title (hash)))
                                       (define-values (start duration) (translate-time tid))
+
                                       (hasheq
                                        'id trimmed-title
                                        'date (first acc)
