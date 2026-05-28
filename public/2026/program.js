@@ -184,7 +184,7 @@
     "date": "2026-06-05",
     "desc": "",
     "format": "",
-    "id": "Dørene åbner",
+    "id": "Doors open",
     "loc": [
       "Cafe"
     ],
@@ -192,13 +192,13 @@
     "people": [],
     "tags": [],
     "time": "15:00",
-    "title": "Dørene åbner"
+    "title": "Doors open"
   },
   {
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Dørene åbner",
+    "id": "Doors open",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -206,13 +206,13 @@
     "people": [],
     "tags": [],
     "time": "09:00",
-    "title": "Dørene åbner"
+    "title": "Doors open"
   },
   {
     "date": "2026-06-07",
     "desc": "",
     "format": "",
-    "id": "Dørene åbner",
+    "id": "Doors open",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -220,7 +220,7 @@
     "people": [],
     "tags": [],
     "time": "09:00",
-    "title": "Dørene åbner"
+    "title": "Doors open"
   },
   {
     "date": "2026-06-07",
@@ -836,17 +836,28 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Science Fiction i Romancer og Romancer i Science Fiction”",
+    "desc": "Korte nedslag i nogle af de titler jeg som romanceelsker har holdt mest af. Og Nogle af de titler jeg som Sci Fi elsker er allermest vild med.",
+    "format": "Foredrag",
+    "id": "Science Fiction i Romancer og Romancer i Science Fiction",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
-    "tags": [],
+    "people": [
+      {
+        "id": "Lea Thume",
+        "name": "Lea Thume"
+      }
+    ],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
     "time": "11:00",
-    "title": "Science Fiction i Romancer og Romancer i Science Fiction”"
+    "title": "Science Fiction i Romancer og Romancer i Science Fiction"
   },
   {
     "date": "2026-06-06",
