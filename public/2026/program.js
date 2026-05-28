@@ -143,7 +143,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "Chinese fantasy\r\nEast Asian-style fantasy has had a growing influence on Western fantasy in the past few years, helped by the ever-expanding popularity of kpop and anime. However, this talk will give an introduction to Chinese fantasy, a genre that is getting more and more recognition outside of Asia, especially with the animated movie Nezha 2, which last year became one of the worldwide highest grossing movies ever made. This presentation will try to explain some of the main concepts of Chinese fantasy, what makes it unique, and where to start if you want to explore what contemporary Chinese fantasy has to offer, be it books, movies, or TV dramas. ",
+    "desc": "East Asian-style fantasy has had a growing influence on Western fantasy in the past few years, helped by the ever-expanding popularity of kpop and anime. However, this talk will give an introduction to Chinese fantasy, a genre that is getting more and more recognition outside of Asia, especially with the animated movie Nezha 2, which last year became one of the worldwide highest grossing movies ever made. This presentation will try to explain some of the main concepts of Chinese fantasy, what makes it unique, and where to start if you want to explore what contemporary Chinese fantasy has to offer, be it books, movies, or TV dramas. ",
     "format": "Foredrag",
     "id": "Chinese fantasy",
     "loc": [
@@ -338,6 +338,47 @@
     ],
     "time": "10:00",
     "title": "Hugo nominees 2026"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "Panelet stiller skarpt på fantasy-YA-forfatteren Tamora Pierce og hvorfor hendes bøger stadig betyder så meget for så mange fantasy-læsere. Vi taler om, hvad der gør hendes historier særlige, hvorfor vi elskede dem som unge, og hvorfor vi bliver ved med at vende tilbage til dem som voksne. Hvorfor har Tamora Pierce fået en helt særlig plads hos nordiske læsere? Samtalen fokuserer også på den særlige rolle, som kærlighed og relationer spiller i hendes bøger.",
+    "format": "Panel",
+    "id": "Hvorfor ♥️ vi Tamora Pierce?",
+    "loc": [
+      "Lille sal (Stuen)"
+    ],
+    "mins": "45",
+    "people": [
+      {
+        "id": "Sarah Ella Stoltze",
+        "name": "Sarah Ella Stoltze"
+      },
+      {
+        "id": "Mariane Mide",
+        "name": "Mariane Mide"
+      },
+      {
+        "id": "Sidsel Pedersen (M)",
+        "name": "Sidsel Pedersen (M)"
+      },
+      {
+        "id": "Lea Thume",
+        "name": "Lea Thume"
+      },
+      {
+        "id": "Sidsel Sander Mittet.",
+        "name": "Sidsel Sander Mittet."
+      }
+    ],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
+    "time": "12:00",
+    "title": "Hvorfor ♥️ vi Tamora Pierce?"
   },
   {
     "date": "2026-06-07",
@@ -607,7 +648,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "Når man tænker science-fiction tænker man ofte rumskibe, aliens og kampklare helte. Men science fiction er meget mere end dette. Der er en hel verden derude af ikke-heroiske hovedpersoner og værker med sat i den nære fremtid. Tendens har rødder helt tilbage til dystopien og utopien, men som rigtig bliver skubbet i gang med Geoff Ryman introduktion af genren ’mundane science-fiction’ i 2004. Det er denne genre som panelet vil introducere, diskutere og udfordre med udgangspunkt i deltagernes egne værker og/eller interesse for genren.",
     "format": "Panel",
     "id": "Mundane Science Fiction",
     "loc": [
@@ -616,12 +657,20 @@
     "mins": "45",
     "people": [
       {
-        "id": "Jesper",
-        "name": "Jesper"
+        "id": "Jasmin Hansen",
+        "name": "Jasmin Hansen"
       },
       {
-        "id": "Jasmin",
-        "name": "Jasmin"
+        "id": "Jane Mondrup",
+        "name": "Jane Mondrup"
+      },
+      {
+        "id": "Niels Dalgaard",
+        "name": "Niels Dalgaard"
+      },
+      {
+        "id": "Jesper Rugård",
+        "name": "Jesper Rugård"
       }
     ],
     "tags": [],
@@ -789,7 +838,7 @@
     "date": "2026-06-06",
     "desc": "",
     "format": "",
-    "id": "Science Fiction romancer",
+    "id": "Science Fiction i Romancer og Romancer i Science Fiction”",
     "loc": [
       "Lille sal (Stuen)"
     ],
@@ -797,7 +846,7 @@
     "people": [],
     "tags": [],
     "time": "11:00",
-    "title": "Science Fiction romancer"
+    "title": "Science Fiction i Romancer og Romancer i Science Fiction”"
   },
   {
     "date": "2026-06-06",
@@ -862,47 +911,6 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "Panel",
-    "id": "Tamora Pierces forfatterskab",
-    "loc": [
-      "Lille sal (Stuen)"
-    ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Sarah Ella Stoltze",
-        "name": "Sarah Ella Stoltze"
-      },
-      {
-        "id": "Mariane Mide",
-        "name": "Mariane Mide"
-      },
-      {
-        "id": "Sidsel Pedersen (M)",
-        "name": "Sidsel Pedersen (M)"
-      },
-      {
-        "id": "Lea Thume",
-        "name": "Lea Thume"
-      },
-      {
-        "id": "Sidsel Sander Mittet.",
-        "name": "Sidsel Sander Mittet."
-      }
-    ],
-    "tags": [
-      {
-        "category": "language",
-        "label": "Dansk",
-        "value": "Dansk"
-      }
-    ],
-    "time": "12:00",
-    "title": "Tamora Pierces forfatterskab"
-  },
-  {
-    "date": "2026-06-06",
     "desc": "Vi elsker horror, og vi elsker at snakke om det. Kom til et hyggeligt panel, hvor 3 horror entusiaster prøver at overholde tidsplanen, mens de ævler løs om den bedste genre i verden. (Vi kan ikke love, at det ikke bliver lidt klamt)",
     "format": "Panel",
     "id": "Vi🫀Horror",
@@ -950,7 +958,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
+    "desc": "\nVi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
     "format": "Panel",
     "id": "We ❤️ Fantasy",
     "loc": [
@@ -959,16 +967,16 @@
     "mins": "45",
     "people": [
       {
-        "id": "Jesper",
-        "name": "Jesper"
+        "id": "Jesper Rugård",
+        "name": "Jesper Rugård"
       },
       {
-        "id": "Tobias",
-        "name": "Tobias"
+        "id": "Tobias Bakmand Jungersen",
+        "name": "Tobias Bakmand Jungersen"
       },
       {
-        "id": "Sidsel",
-        "name": "Sidsel"
+        "id": "Sidsel Petersen",
+        "name": "Sidsel Petersen"
       }
     ],
     "tags": [
@@ -983,14 +991,23 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "Why do creators and consumers of fiction love the science fiction genre so much?",
+    "desc": "Why do creators and consumers of fiction love the science fiction genre so much? Is it the spaceships, the robots, the capitalistic hellscapes or the visions for the future? The panel explores our fascination with the science fiction genre.",
     "format": "Panel",
     "id": "We ❤️ Science fiction",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sarah Pinksker",
+        "name": "Sarah Pinksker"
+      },
+      {
+        "id": "",
+        "name": ""
+      }
+    ],
     "tags": [
       {
         "category": "language",
@@ -1017,7 +1034,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "How to write a reading journal. Sidsel Petersen present her unique approach to journaling.",
+    "desc": "How to write a reading journal. Sidsel Petersen present her unique approach to reading journaling. Get started with your own reading journal or show off your journal to others. Inspiration, tips and stickers!\r\nBring a notebook and a pen",
     "format": "Workshop",
     "id": "Workshop: Reading Journals",
     "loc": [
@@ -1026,8 +1043,8 @@
     "mins": "45",
     "people": [
       {
-        "id": "Sidsel",
-        "name": "Sidsel"
+        "id": "Sidsel Pedersen",
+        "name": "Sidsel Pedersen"
       }
     ],
     "tags": [],

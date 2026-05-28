@@ -1,5 +1,9 @@
 [
   {
+    "id": "",
+    "name": ""
+  },
+  {
     "id": "Agnethe Poulsen",
     "name": "Agnethe Poulsen"
   },
@@ -40,12 +44,12 @@
     "name": "Jane Mondrup"
   },
   {
-    "id": "Jasmin",
-    "name": "Jasmin"
+    "id": "Jasmin Hansen",
+    "name": "Jasmin Hansen"
   },
   {
-    "id": "Jesper",
-    "name": "Jesper"
+    "id": "Jesper Rugård",
+    "name": "Jesper Rugård"
   },
   {
     "id": "Karsten Brandt-Knudsen",
@@ -92,6 +96,10 @@
     "name": "Sarah Ella Stoltze"
   },
   {
+    "id": "Sarah Pinksker",
+    "name": "Sarah Pinksker"
+  },
+  {
     "id": "Sarah Pinsker",
     "name": "Sarah Pinsker"
   },
@@ -104,12 +112,16 @@
     "name": "Shekufe Heiberg"
   },
   {
-    "id": "Sidsel",
-    "name": "Sidsel"
+    "id": "Sidsel Pedersen",
+    "name": "Sidsel Pedersen"
   },
   {
     "id": "Sidsel Pedersen (M)",
     "name": "Sidsel Pedersen (M)"
+  },
+  {
+    "id": "Sidsel Petersen",
+    "name": "Sidsel Petersen"
   },
   {
     "id": "Sidsel Sander Mittet.",
@@ -122,6 +134,10 @@
   {
     "id": "Tobias",
     "name": "Tobias"
+  },
+  {
+    "id": "Tobias Bakmand Jungersen",
+    "name": "Tobias Bakmand Jungersen"
   },
   {
     "id": "Tue",
