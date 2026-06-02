@@ -572,7 +572,7 @@
     "loc": [
       "Cafe"
     ],
-    "mins": "45",
+    "mins": "240",
     "people": [],
     "tags": [],
     "time": "16:00",
