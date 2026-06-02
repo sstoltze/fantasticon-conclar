@@ -20,6 +20,10 @@
     "name": "Carolina Gomez Lagerlöf"
   },
   {
+    "id": "Cecilie Buur Larsen",
+    "name": "Cecilie Buur Larsen"
+  },
+  {
     "id": "Chris Beckett",
     "name": "Chris Beckett"
   },

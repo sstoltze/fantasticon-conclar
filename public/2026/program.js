@@ -27,35 +27,6 @@
     "title": "Adaptations - from one medium to another"
   },
   {
-    "date": "2026-06-06",
-    "desc": "Valdemar Lenschow og Agnethe Poulsen taler om arthur myter. Panel eller interview med de to meget vidende mennesker.",
-    "format": "Panel",
-    "id": "Arthurmyterne i litteraturen",
-    "loc": [
-      "Store sal (3. sal)"
-    ],
-    "mins": "45",
-    "people": [
-      {
-        "id": "Valdemar Lenschow",
-        "name": "Valdemar Lenschow"
-      },
-      {
-        "id": "Agnethe Poulsen",
-        "name": "Agnethe Poulsen"
-      }
-    ],
-    "tags": [
-      {
-        "category": "language",
-        "label": "Dansk",
-        "value": "Dansk"
-      }
-    ],
-    "time": "11:00",
-    "title": "Arthurmyterne i litteraturen"
-  },
-  {
     "date": "2026-06-07",
     "desc": "Anything you always wanted to ask an author about, but didn't have the chance or the courage to ask. Now is the chance, you can literally ask the three distinguished guests anything and hope you get a good answer.",
     "format": "Panel",
@@ -919,6 +890,39 @@
     ],
     "time": "12:00",
     "title": "State of the Union: European Fantastical Litterature"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "King Arthur continues to have a strong presence in Western fantasy through films, books and comics. Why are we still drawn to a story that was written down in the Middle Ages? Join a panel discussion where three Arthurian experts discuss our enduring fascination with the ancient tale.",
+    "format": "Panel",
+    "id": "The Arthurian Myths",
+    "loc": [
+      "Store sal (3. sal)"
+    ],
+    "mins": "45",
+    "people": [
+      {
+        "id": "Valdemar Lenschow",
+        "name": "Valdemar Lenschow"
+      },
+      {
+        "id": "Agnethe Poulsen",
+        "name": "Agnethe Poulsen"
+      },
+      {
+        "id": "Cecilie Buur Larsen",
+        "name": "Cecilie Buur Larsen"
+      }
+    ],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
+    "time": "11:00",
+    "title": "The Arthurian Myths"
   },
   {
     "date": "2026-06-06",
