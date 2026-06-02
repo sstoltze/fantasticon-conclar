@@ -10,19 +10,25 @@
     "mins": "45",
     "people": [
       {
-        "id": "Tue",
-        "name": "Tue"
+        "id": "Tue Sørensen",
+        "name": "Tue Sørensen"
       },
       {
-        "id": "Maria",
-        "name": "Maria"
+        "id": "Maria O. Larsen",
+        "name": "Maria O. Larsen"
       },
       {
         "id": "Asta Jersø",
         "name": "Asta Jersø"
       }
     ],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "10:00",
     "title": "Adaptations - from one medium to another"
   },
@@ -99,8 +105,8 @@
     "mins": "45",
     "people": [
       {
-        "id": "Klaus Æ Mogensen",
-        "name": "Klaus Æ Mogensen"
+        "id": "Klaus Æ. Mogensen",
+        "name": "Klaus Æ. Mogensen"
       }
     ],
     "tags": [
@@ -160,10 +166,21 @@
     "loc": [
       "Store sal (3. sal)"
     ],
-    "mins": "45",
+    "mins": "240",
     "people": [],
-    "tags": [],
-    "time": "17:00",
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      },
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
+    "time": "00",
     "title": "Dead Dog Party"
   },
   {
@@ -176,7 +193,18 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      },
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "15:00",
     "title": "Doors open"
   },
@@ -190,7 +218,18 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      },
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "09:00",
     "title": "Doors open"
   },
@@ -204,7 +243,18 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      },
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "09:00",
     "title": "Doors open"
   },
@@ -218,7 +268,13 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
     "time": "16:00",
     "title": "Farvel og tak - fra alle os"
   },
@@ -288,7 +344,7 @@
     "date": "2026-06-07",
     "desc": "The panel will discuss some of this years Hugo nominated novels and other works, and make a few recommendations.",
     "format": "Panel",
-    "id": "Hugo nominees 2026",
+    "id": "Hugo Nominees 2026",
     "loc": [
       "Store sal (3. sal)"
     ],
@@ -323,7 +379,7 @@
       }
     ],
     "time": "10:00",
-    "title": "Hugo nominees 2026"
+    "title": "Hugo Nominees 2026"
   },
   {
     "date": "2026-06-06",
@@ -344,8 +400,8 @@
         "name": "Mariane Mide"
       },
       {
-        "id": "Sidsel Pedersen (M)",
-        "name": "Sidsel Pedersen (M)"
+        "id": "Sidsel Pedersen",
+        "name": "Sidsel Pedersen"
       },
       {
         "id": "Lea Thume",
@@ -410,8 +466,8 @@
         "name": "Eugenia Triantafyllou"
       },
       {
-        "id": "Tobias",
-        "name": "Tobias"
+        "id": "Tobias Backman",
+        "name": "Tobias Backman"
       }
     ],
     "tags": [
@@ -426,7 +482,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Sarah Pinsker  is the author of over sixty works of short fiction, one novella, two novels, and two collections. Her work has won four Nebula Awards (Best Novel, A Song For A New Day; Best Novelette, \"Our Lady of the Open Road,\" Best Novelette, \"Two Truths And A Lie,\" Best Short Story, \"Where Oaken Hearts Do Gather,\"), two Hugo Awards (\"Two Truths And a Lie\" and \"Where Oaken Hearts Do Gather\"), the Philip K Dick Award, the Locus Award, the Eugie Foster Award, and the Theodore Sturgeon Award, and been nominated for numerous Nebula, Hugo, Locus, and World Fantasy Awards. Her fiction has been translated into almost a dozen languages and published in magazines including Asimov's, Strange Horizons, Fantasy & Science Fiction, and Uncanny and in many anthologies and year's bests. \nSarah's first collection, the Philip K Dick Award winning Sooner or Later Everything Falls Into the Sea: Stories, was published by Small Beer Press in 2019, and her first novel, A Song For A New Day, was published by Penguin/Random House/Berkley in  2019. It was followed by We Are Satellites, published in 2021. Her second collection, Lost Places, was published by Small Beer Press in  2023. Tordotcom novella Haunt Sweet Home appeared in September 2024.\nShe is also a singer/songwriter with four albums on various independent labels (the third with her rock band, the Stalking Horses).",
+    "desc": "Sarah Pinsker is the author of over sixty works of short fiction, one novella, two novels, and two collections. Her work has won four Nebula Awards (Best Novel, A Song For A New Day; Best Novelette, \"Our Lady of the Open Road,\" Best Novelette, \"Two Truths And A Lie,\" Best Short Story, \"Where Oaken Hearts Do Gather,\"), two Hugo Awards (\"Two Truths And a Lie\" and \"Where Oaken Hearts Do Gather\"), the Philip K Dick Award, the Locus Award, the Eugie Foster Award, and the Theodore Sturgeon Award, and been nominated for numerous Nebula, Hugo, Locus, and World Fantasy Awards. Her fiction has been translated into almost a dozen languages and published in magazines including Asimov's, Strange Horizons, Fantasy & Science Fiction, and Uncanny and in many anthologies and year's bests. \nSarah's first collection, the Philip K Dick Award winning Sooner or Later Everything Falls Into the Sea: Stories, was published by Small Beer Press in 2019, and her first novel, A Song For A New Day, was published by Penguin/Random House/Berkley in  2019. It was followed by We Are Satellites, published in 2021. Her second collection, Lost Places, was published by Small Beer Press in  2023. Tordotcom novella Haunt Sweet Home appeared in September 2024.\nShe is also a singer/songwriter with four albums on various independent labels (the third with her rock band, the Stalking Horses).",
     "format": "Interview",
     "id": "Interview with Sarah Pinsker",
     "loc": [
@@ -480,10 +536,6 @@
       {
         "id": "Chris Beckett",
         "name": "Chris Beckett"
-      },
-      {
-        "id": "you",
-        "name": "you"
       }
     ],
     "tags": [
@@ -498,7 +550,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Come and meet Eugenia Triantafyllou, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any perparation.",
+    "desc": "Come and meet Eugenia Triantafyllou, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any preparation, but signup is needed.",
     "format": "",
     "id": "Kaffeeklatsch with Eugenia Triantafyllou",
     "loc": [
@@ -509,10 +561,6 @@
       {
         "id": "Eugenia Triantafyllou",
         "name": "Eugenia Triantafyllou"
-      },
-      {
-        "id": "you",
-        "name": "you"
       }
     ],
     "tags": [
@@ -527,7 +575,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "Come and meet Sarah Pinkser, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any perparation.",
+    "desc": "Come and meet Sarah Pinkser, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any preparation, but signup is needed.",
     "format": "",
     "id": "Kaffeeklatsch with Sarah Pinsker",
     "loc": [
@@ -538,10 +586,6 @@
       {
         "id": "Sarah Pinsker",
         "name": "Sarah Pinsker"
-      },
-      {
-        "id": "you",
-        "name": "you"
       }
     ],
     "tags": [
@@ -590,22 +634,8 @@
     "mins": "240",
     "people": [],
     "tags": [],
-    "time": "16:00",
+    "time": "00",
     "title": "Meet 'n' greet"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Meetup",
-    "loc": [
-      "Mødelokale (Stuen)"
-    ],
-    "mins": "90",
-    "people": [],
-    "tags": [],
-    "time": "17:00",
-    "title": "Meetup"
   },
   {
     "date": "2026-06-06",
@@ -659,13 +689,19 @@
         "name": "Jesper Rugård"
       }
     ],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
     "time": "14:00",
     "title": "Mundane Science Fiction"
   },
   {
     "date": "2026-06-06",
-    "desc": "Hvis du er ny så kom her og mød de andre nye.",
+    "desc": "Hvis du er ny så kom her og mød de andre nye og få en snak med dem om alt mellem himmel og jord.",
     "format": "Publikumsaktivitet",
     "id": "Møde mellem fans - mød en ny ven",
     "loc": [
@@ -753,13 +789,26 @@
   {
     "date": "2026-06-07",
     "desc": "",
-    "format": "",
+    "format": "Panel",
     "id": "On Writing Romantasy",
     "loc": [
       "Store sal (3. sal)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "CA Wolters",
+        "name": "CA Wolters"
+      },
+      {
+        "id": "Emile Sodyte",
+        "name": "Emile Sodyte"
+      },
+      {
+        "id": "Julie Eriksen Strøm",
+        "name": "Julie Eriksen Strøm"
+      }
+    ],
     "tags": [],
     "time": "12:00",
     "title": "On Writing Romantasy"
@@ -816,7 +865,18 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      },
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "19:00",
     "title": "Restaurant MOSOB"
   },
@@ -847,7 +907,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Hvis man vil være med, så kommer man med bogen man anbefaler. 1:1 on books. Fortæl det en anden person i et minut, og den anden fortæller sin bog til dig. Fløjten lyder og alle skifter til en anden partner.",
+    "desc": "Kom og anbefal en bog til en anden og de anbefaler så en bog til dig. To og to får I talt om en bog som I vil anbefale til hinanden. Fløjten lyder og alle skifter til en anden partner.",
     "format": "Publikumsaktivitet",
     "id": "Speeddate en bog",
     "loc": [
@@ -855,23 +915,20 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      },
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "15:00",
     "title": "Speeddate en bog"
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Spil",
-    "loc": [
-      "Mødelokale (2. sal)"
-    ],
-    "mins": "90",
-    "people": [],
-    "tags": [],
-    "time": "17:00",
-    "title": "Spil"
   },
   {
     "date": "2026-06-07",
@@ -894,6 +951,18 @@
       {
         "id": "Thomas Recktenwald",
         "name": "Thomas Recktenwald"
+      },
+      {
+        "id": "Carolina Gomez Lagerlöf",
+        "name": "Carolina Gomez Lagerlöf"
+      },
+      {
+        "id": "Cato Sture",
+        "name": "Cato Sture"
+      },
+      {
+        "id": "Jesper Rugård",
+        "name": "Jesper Rugård"
       }
     ],
     "tags": [
@@ -932,8 +1001,8 @@
     "tags": [
       {
         "category": "language",
-        "label": "Dansk",
-        "value": "Dansk"
+        "label": "English",
+        "value": "English"
       }
     ],
     "time": "11:00",
@@ -1003,7 +1072,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "\nVi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
+    "desc": "Vi elsker fantasy, men hvorfor? Fantasy er mange ting for mange mennesker, lige fra folkeeventyr til urban fantasy og grimdark, fra Tolkien til HC Andersen. Fra Gollum til Peter Pan, der har mere til fælles end man skulle tro. I dette publikumsinddragense panel vil tale om hvad det er der tiltrækker os ved genren. De gode oplevelser der har fået os til elske den. Chancen for at stikke af, eller blive vågen, for at blive transporteret til en helt anden verden, som dog har kostskoler.",
     "format": "Panel",
     "id": "We ❤️ Fantasy",
     "loc": [
@@ -1016,12 +1085,12 @@
         "name": "Jesper Rugård"
       },
       {
-        "id": "Tobias Bakmand Jungersen",
-        "name": "Tobias Bakmand Jungersen"
+        "id": "Tobias Backman",
+        "name": "Tobias Backman"
       },
       {
-        "id": "Sidsel Petersen",
-        "name": "Sidsel Petersen"
+        "id": "Sidsel Pedersen",
+        "name": "Sidsel Pedersen"
       }
     ],
     "tags": [
@@ -1049,8 +1118,12 @@
         "name": "Sarah Pinksker"
       },
       {
-        "id": "",
-        "name": ""
+        "id": "Tue Sørensen",
+        "name": "Tue Sørensen"
+      },
+      {
+        "id": "Flemming R.P. Rasch",
+        "name": "Flemming R.P. Rasch"
       }
     ],
     "tags": [
@@ -1073,7 +1146,13 @@
     ],
     "mins": "45",
     "people": [],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "10:00",
     "title": "Welcome and presentation of our guests of honour"
   },
@@ -1092,7 +1171,13 @@
         "name": "Sidsel Pedersen"
       }
     ],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "13:00",
     "title": "Workshop: Reading Journals"
   },

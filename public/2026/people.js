@@ -1,9 +1,5 @@
 [
   {
-    "id": "",
-    "name": ""
-  },
-  {
     "id": "Agnethe Poulsen",
     "name": "Agnethe Poulsen"
   },
@@ -20,8 +16,16 @@
     "name": "Asta Jersø"
   },
   {
+    "id": "CA Wolters",
+    "name": "CA Wolters"
+  },
+  {
     "id": "Carolina Gomez Lagerlöf",
     "name": "Carolina Gomez Lagerlöf"
+  },
+  {
+    "id": "Cato Sture",
+    "name": "Cato Sture"
   },
   {
     "id": "Cecilie Buur Larsen",
@@ -34,6 +38,10 @@
   {
     "id": "Claire Bartlett",
     "name": "Claire Bartlett"
+  },
+  {
+    "id": "Emile Sodyte",
+    "name": "Emile Sodyte"
   },
   {
     "id": "Eugenia Triantafyllou",
@@ -72,8 +80,8 @@
     "name": "Karsten Brandt-Knudsen"
   },
   {
-    "id": "Klaus Æ Mogensen",
-    "name": "Klaus Æ Mogensen"
+    "id": "Klaus Æ. Mogensen",
+    "name": "Klaus Æ. Mogensen"
   },
   {
     "id": "Lars Ahn",
@@ -84,8 +92,8 @@
     "name": "Lea Thume"
   },
   {
-    "id": "Maria",
-    "name": "Maria"
+    "id": "Maria O. Larsen",
+    "name": "Maria O. Larsen"
   },
   {
     "id": "Mariane Mide",
@@ -132,14 +140,6 @@
     "name": "Sidsel Pedersen"
   },
   {
-    "id": "Sidsel Pedersen (M)",
-    "name": "Sidsel Pedersen (M)"
-  },
-  {
-    "id": "Sidsel Petersen",
-    "name": "Sidsel Petersen"
-  },
-  {
     "id": "Sidsel Sander Mittet.",
     "name": "Sidsel Sander Mittet."
   },
@@ -152,16 +152,12 @@
     "name": "Thomas Recktenwald"
   },
   {
-    "id": "Tobias",
-    "name": "Tobias"
+    "id": "Tobias Backman",
+    "name": "Tobias Backman"
   },
   {
-    "id": "Tobias Bakmand Jungersen",
-    "name": "Tobias Bakmand Jungersen"
-  },
-  {
-    "id": "Tue",
-    "name": "Tue"
+    "id": "Tue Sørensen",
+    "name": "Tue Sørensen"
   },
   {
     "id": "Valdemar Lenschow",
@@ -170,9 +166,5 @@
   {
     "id": "bÆnji",
     "name": "bÆnji"
-  },
-  {
-    "id": "you",
-    "name": "you"
   }
 ]
