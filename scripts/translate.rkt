@@ -12,7 +12,7 @@
   (match tid
     ["" (values "" "45")]
     [(pregexp #px"(\\d+) \\((\\d+)\\)")
-     (match (regexp-match #px"(\\d+) \\((\\d+)\\)" tid)
+     (match (regexp-match #px"(\\d+:\\d+) \\((\\d+)\\)" tid)
        [(list _ hour duration) (values hour duration)])]
     [(pregexp #px"(\\d+)-\\1:30") (values (string-append (substring tid 0 2) ":00") "30")]
     [(pregexp #px"(\\d+):30-.*") (values (string-append (substring tid 0 2) ":30") "30")]

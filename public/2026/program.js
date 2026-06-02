@@ -180,7 +180,7 @@
         "value": "English"
       }
     ],
-    "time": "00",
+    "time": "17:00",
     "title": "Dead Dog Party"
   },
   {
@@ -216,7 +216,7 @@
     "loc": [
       "Store sal (3. sal)"
     ],
-    "mins": "45",
+    "mins": "60",
     "people": [],
     "tags": [
       {
@@ -634,7 +634,7 @@
     "mins": "240",
     "people": [],
     "tags": [],
-    "time": "00",
+    "time": "16:00",
     "title": "Meet 'n' greet"
   },
   {
