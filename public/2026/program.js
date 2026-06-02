@@ -67,7 +67,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Jakob Levinsen og Stig W Jørgensen har oversat en række bøger med fantastisk islæt, lige fra Ringenes Herre til Dune. ",
+    "desc": "Jakob Levinsen og Stig W Jørgensen har oversat en række klassiske (og mindre klassiske) genreværker til dansk. Kom og hør dem tale om oversættelse, kultur og kultværker.\nJakob Levinsen har oversat en række klassikere af bl.a. J.R.R. Tolkien, Mary Shelley, Salman Rushdie, Kazuo Ishiguro, Stephen King, Bram Stoker og skrevet bøger om Wagners operaer og Tolkiens verden. Stig W. Jørgensen har oversat værker af Charlaine Harris, Frank Herbert og Sable Sorensen og har skrevet flere artikler og bøger om science fiction.",
     "format": "Interview",
     "id": "At oversætte Fantatisk litteratur",
     "loc": [
@@ -788,7 +788,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "Writing romantasy: Get a unique look into the writing process of C.A. Wolters and Emile Sodyte, who have published romantasy novels that have taken social media by storm. We will discuss writing process, inspiration and plotting.",
     "format": "Panel",
     "id": "On Writing Romantasy",
     "loc": [
@@ -809,23 +809,15 @@
         "name": "Julie Eriksen Strøm"
       }
     ],
-    "tags": [],
+    "tags": [
+      {
+        "category": "language",
+        "label": "English",
+        "value": "English"
+      }
+    ],
     "time": "12:00",
     "title": "On Writing Romantasy"
-  },
-  {
-    "date": "2026-06-07",
-    "desc": "",
-    "format": "",
-    "id": "Quiz",
-    "loc": [
-      "Cafe"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "10:00",
-    "title": "Quiz"
   },
   {
     "date": "2026-06-06",
@@ -907,7 +899,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Kom og anbefal en bog til en anden og de anbefaler så en bog til dig. To og to får I talt om en bog som I vil anbefale til hinanden. Fløjten lyder og alle skifter til en anden partner.",
+    "desc": "Speddate en bog: Vi mødes og anbefaler bøger vi elsker til hinanden.. Du fortæller om en elsket bog til en anden og de fortæller dig om deres yndlingsbog. Når fløjten lyder  skifter alle til en anden partner og snakken starter forfra.",
     "format": "Publikumsaktivitet",
     "id": "Speeddate en bog",
     "loc": [
@@ -1043,7 +1035,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Vølvens vej: Anne-Marie Vedsø Olesen har ifølge anmeldere skrevet “den nordiske Game of Thrones”, som netop er afsluttet med udgivelsen af “Flammesværdet”. I interviewet med Anne-Marie vil vi se tilbage på udviklingen af hele serien og dykke ned i temaerne - samt nørde en masse nordisk mytologi.",
     "format": "Interview",
     "id": "Vølvens Vej - Interview med Anne-Marie Vedsø Olsen",
     "loc": [
