@@ -61,15 +61,30 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "",
+    "desc": "Jakob Levinsen og Stig W Jørgensen har oversat en række bøger med fantastisk islæt, lige fra Ringenes Herre til Dune. ",
+    "format": "Interview",
     "id": "At oversætte Fantatisk litteratur",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
-    "tags": [],
+    "people": [
+      {
+        "id": "Jakob Levinsen",
+        "name": "Jakob Levinsen"
+      },
+      {
+        "id": "Stig W Jørgensen",
+        "name": "Stig W Jørgensen"
+      }
+    ],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
     "time": "15:00",
     "title": "At oversætte Fantatisk litteratur"
   },
@@ -139,7 +154,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "The con is over. Come and help us clear out the refreshments, and talk about the con we all just survived.",
     "format": "",
     "id": "Dead Dog Party",
     "loc": [
@@ -153,7 +168,7 @@
   },
   {
     "date": "2026-06-05",
-    "desc": "",
+    "desc": "Come and hang out.",
     "format": "",
     "id": "Doors open",
     "loc": [
@@ -167,7 +182,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Come and hang out.",
     "format": "",
     "id": "Doors open",
     "loc": [
@@ -181,7 +196,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "Come and hang out.",
     "format": "",
     "id": "Doors open",
     "loc": [
@@ -195,7 +210,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "",
+    "desc": "Tak for et godt con! Kom og giv os feedback, fortæl os om alt det gode du har oplevet, og brok dig over den der irritende ting fra i forgårs.",
     "format": "",
     "id": "Farvel og tak - fra alle os",
     "loc": [
@@ -566,7 +581,7 @@
   },
   {
     "date": "2026-06-05",
-    "desc": "",
+    "desc": "Come and meet the con organisers and other fans before the con officially starts!",
     "format": "",
     "id": "Meet 'n' greet",
     "loc": [
@@ -793,7 +808,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Our traditional Saturday dinner for attendees who have signed up.",
     "format": "",
     "id": "Restaurant MOSOB",
     "loc": [
@@ -960,14 +975,29 @@
   {
     "date": "2026-06-06",
     "desc": "",
-    "format": "",
+    "format": "Interview",
     "id": "Vølvens Vej - Interview med Anne-Marie Vedsø Olsen",
     "loc": [
       "Lille sal (Stuen)"
     ],
     "mins": "45",
-    "people": [],
-    "tags": [],
+    "people": [
+      {
+        "id": "Anne Marie Vedsø-Olesen",
+        "name": "Anne Marie Vedsø-Olesen"
+      },
+      {
+        "id": "Julie Eriksen Strøm",
+        "name": "Julie Eriksen Strøm"
+      }
+    ],
+    "tags": [
+      {
+        "category": "language",
+        "label": "Dansk",
+        "value": "Dansk"
+      }
+    ],
     "time": "13:00",
     "title": "Vølvens Vej - Interview med Anne-Marie Vedsø Olsen"
   },
@@ -1035,7 +1065,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "The con begins! Come and hear about the con, and get a small introduction to our lovely guests of honour.",
     "format": "",
     "id": "Welcome and presentation of our guests of honour",
     "loc": [

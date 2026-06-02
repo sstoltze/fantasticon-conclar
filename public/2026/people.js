@@ -8,6 +8,10 @@
     "name": "Agnethe Poulsen"
   },
   {
+    "id": "Anne Marie Vedsø-Olesen",
+    "name": "Anne Marie Vedsø-Olesen"
+  },
+  {
     "id": "Anton Binder",
     "name": "Anton Binder"
   },
@@ -44,6 +48,10 @@
     "name": "Ian Sales"
   },
   {
+    "id": "Jakob Levinsen",
+    "name": "Jakob Levinsen"
+  },
+  {
     "id": "Jane Mondrup",
     "name": "Jane Mondrup"
   },
@@ -54,6 +62,10 @@
   {
     "id": "Jesper Rugård",
     "name": "Jesper Rugård"
+  },
+  {
+    "id": "Julie Eriksen Strøm",
+    "name": "Julie Eriksen Strøm"
   },
   {
     "id": "Karsten Brandt-Knudsen",
@@ -130,6 +142,10 @@
   {
     "id": "Sidsel Sander Mittet.",
     "name": "Sidsel Sander Mittet."
+  },
+  {
+    "id": "Stig W Jørgensen",
+    "name": "Stig W Jørgensen"
   },
   {
     "id": "Thomas Recktenwald",

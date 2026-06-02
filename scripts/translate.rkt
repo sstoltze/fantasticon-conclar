@@ -88,6 +88,12 @@
                                         #:key (lambda (h)
                                                 (hash-ref h 'id))))
 
+(for-each (lambda (p)
+            (displayln (hash-ref p 'title))
+            (displayln ""))
+          (filter (lambda (p) (string=? (hash-ref p 'desc) ""))
+                  programme))
+
 (with-output-to-file "../public/2026/program.js" #:exists 'replace
   (lambda () (write-json programme #:indent 2)))
 
