@@ -120,16 +120,8 @@
     "name": "Sarah Ella Stoltze"
   },
   {
-    "id": "Sarah Pinksker",
-    "name": "Sarah Pinksker"
-  },
-  {
     "id": "Sarah Pinsker",
     "name": "Sarah Pinsker"
-  },
-  {
-    "id": "Sarah Stoltze",
-    "name": "Sarah Stoltze"
   },
   {
     "id": "Shekufe Heiberg",

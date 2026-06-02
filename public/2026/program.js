@@ -355,8 +355,8 @@
         "name": "Carolina Gomez Lagerlöf"
       },
       {
-        "id": "Sarah Stoltze",
-        "name": "Sarah Stoltze"
+        "id": "Sarah Ella Stoltze",
+        "name": "Sarah Ella Stoltze"
       },
       {
         "id": "Lars Ahn",
@@ -575,7 +575,7 @@
   },
   {
     "date": "2026-06-07",
-    "desc": "Come and meet Sarah Pinkser, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any preparation, but signup is needed.",
+    "desc": "Come and meet Sarah Pinsker, and have a cup of coffee with her. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any preparation, but signup is needed.",
     "format": "",
     "id": "Kaffeeklatsch with Sarah Pinsker",
     "loc": [
@@ -1106,8 +1106,8 @@
     "mins": "45",
     "people": [
       {
-        "id": "Sarah Pinksker",
-        "name": "Sarah Pinksker"
+        "id": "Sarah Pinsker",
+        "name": "Sarah Pinsker"
       },
       {
         "id": "Tue Sørensen",
