@@ -870,8 +870,12 @@
     "mins": "30",
     "people": [
       {
-        "id": "Jasmin Hansen & Knud Larn",
-        "name": "Jasmin Hansen & Knud Larn"
+        "id": "Jasmin Hansen",
+        "name": "Jasmin Hansen"
+      },
+      {
+        "id": "Knud Larn",
+        "name": "Knud Larn"
       }
     ],
     "tags": [],
@@ -880,7 +884,7 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Redaktør Rene Roar Thygesen og udvalgte forfattere fra Årsantologien PLANLAGT FORÆLDELSE samtaler om noveller, skrivning, konkurrencer og meget mere.",
+    "desc": "Redaktør Rene Roar Thygesen og udvalgte forfattere fra Årsantologien PLANLAGT FORÆLDELSE taler om noveller, skrivning, konkurrencer og meget mere.",
     "format": "",
     "id": "Samtale om Årsantologien PLANLAGT FORÆLDELSE",
     "loc": [

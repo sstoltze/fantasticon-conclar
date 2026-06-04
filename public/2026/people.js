@@ -68,10 +68,6 @@
     "name": "Jasmin Hansen"
   },
   {
-    "id": "Jasmin Hansen & Knud Larn",
-    "name": "Jasmin Hansen & Knud Larn"
-  },
-  {
     "id": "Jesper Rugård",
     "name": "Jesper Rugård"
   },
@@ -86,6 +82,10 @@
   {
     "id": "Klaus Æ. Mogensen",
     "name": "Klaus Æ. Mogensen"
+  },
+  {
+    "id": "Knud Larn",
+    "name": "Knud Larn"
   },
   {
     "id": "Lars Ahn",
