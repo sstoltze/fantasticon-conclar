@@ -5,7 +5,7 @@
     "format": "Panel",
     "id": "Adaptations - from one medium to another",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -71,7 +71,7 @@
     "format": "Interview",
     "id": "At oversætte Fantatisk litteratur",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -121,17 +121,22 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
+    "desc": "Præsentation af Cato Stures novellesamling HIGH-PHIDELPHIAS.",
     "format": "",
-    "id": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS",
+    "id": "Cato Sture præsenterer novellesamling HIGH-PHIDELPHIAS",
     "loc": [
       "Biblioteket"
     ],
     "mins": "30",
-    "people": [],
+    "people": [
+      {
+        "id": "Cato Sture",
+        "name": "Cato Sture"
+      }
+    ],
     "tags": [],
     "time": "16:00",
-    "title": "Cato Sture præsenterer sin novellesamling HIGH-PHIDELPHIAS"
+    "title": "Cato Sture præsenterer novellesamling HIGH-PHIDELPHIAS"
   },
   {
     "date": "2026-06-07",
@@ -139,7 +144,7 @@
     "format": "Foredrag",
     "id": "Chinese fantasy",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -387,7 +392,7 @@
     "format": "Panel",
     "id": "Hvorfor ♥️ vi Tamora Pierce?",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -511,20 +516,6 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "30",
-    "people": [],
-    "tags": [],
-    "time": "11:00",
-    "title": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET"
-  },
-  {
-    "date": "2026-06-06",
     "desc": "Come and meet Chris Beckett, and have a cup of coffee with him. A kaffeeklatsch is an informal conversation between a guest of honour and a group of people for an hour or so. It does not require any perparation.",
     "format": "Publikumsaktivitet",
     "id": "Kaffeeklatsch with Chris Beckett",
@@ -604,7 +595,7 @@
     "format": "Foredrag",
     "id": "Lunarpunk",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -643,7 +634,7 @@
     "format": "Publikumsaktivitet",
     "id": "Merlin og Monopolet - dilemmaer i fantasyland",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "90",
     "people": [
@@ -668,7 +659,7 @@
     "format": "Panel",
     "id": "Mundane Science Fiction",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -708,7 +699,12 @@
       "Mødelokale (Stuen)"
     ],
     "mins": "45",
-    "people": [],
+    "people": [
+      {
+        "id": "Sidsel Pedersen",
+        "name": "Sidsel Pedersen"
+      }
+    ],
     "tags": [
       {
         "category": "language",
@@ -730,7 +726,7 @@
     "format": "",
     "id": "N. B. - Epik & musik.",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -752,6 +748,25 @@
     ],
     "time": "15:00",
     "title": "N. B. - Epik & musik."
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "Redaktør og oversætter Niels Dalgaard fortæller om antologien UKENDTE KRÆFTER.",
+    "format": "",
+    "id": "Niels Dalgaard om antologien UKENDTE KRÆFTER",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "30",
+    "people": [
+      {
+        "id": "Niels Dalgaard",
+        "name": "Niels Dalgaard"
+      }
+    ],
+    "tags": [],
+    "time": "11:30",
+    "title": "Niels Dalgaard om antologien UKENDTE KRÆFTER"
   },
   {
     "date": "2026-06-06",
@@ -821,34 +836,6 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Redaktør Rene Roar Thygesen og udvalgte forfattere fra Årsantologien PLANLAGT FORÆLDELSE samtaler om noveller, skrivning, konkurrencer, etc.",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "45",
-    "people": [],
-    "tags": [],
-    "time": "14:00",
-    "title": "Redaktør Rene Roar Thygesen og udvalgte forfattere fra Årsantologien PLANLAGT FORÆLDELSE samtaler om noveller, skrivning, konkurrencer, etc."
-  },
-  {
-    "date": "2026-06-06",
-    "desc": "",
-    "format": "",
-    "id": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER",
-    "loc": [
-      "Biblioteket"
-    ],
-    "mins": "30",
-    "people": [],
-    "tags": [],
-    "time": "11:30",
-    "title": "Redaktør og oversætter Niels Dalgaard om antologien UKENDTE KRÆFTER"
-  },
-  {
-    "date": "2026-06-06",
     "desc": "Our traditional Saturday dinner for attendees who have signed up.",
     "format": "",
     "id": "Restaurant MOSOB",
@@ -874,11 +861,49 @@
   },
   {
     "date": "2026-06-06",
+    "desc": "Jasmin Hansen og Knud Larn i samtale om Jasmin Hansens novellesamling BREVET.",
+    "format": "",
+    "id": "Samtale om Jasmin Hansens novellesamling BREVET",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "30",
+    "people": [
+      {
+        "id": "Jasmin Hansen & Knud Larn",
+        "name": "Jasmin Hansen & Knud Larn"
+      }
+    ],
+    "tags": [],
+    "time": "11:00",
+    "title": "Samtale om Jasmin Hansens novellesamling BREVET"
+  },
+  {
+    "date": "2026-06-06",
+    "desc": "Redaktør Rene Roar Thygesen og udvalgte forfattere fra Årsantologien PLANLAGT FORÆLDELSE samtaler om noveller, skrivning, konkurrencer og meget mere.",
+    "format": "",
+    "id": "Samtale om Årsantologien PLANLAGT FORÆLDELSE",
+    "loc": [
+      "Biblioteket"
+    ],
+    "mins": "45",
+    "people": [
+      {
+        "id": "Rene Roar Thygesen",
+        "name": "Rene Roar Thygesen"
+      }
+    ],
+    "tags": [],
+    "time": "14:00",
+    "title": "Samtale om Årsantologien PLANLAGT FORÆLDELSE"
+  },
+  {
+    "date": "2026-06-06",
     "desc": "Korte nedslag i nogle af de titler jeg som romanceelsker har holdt mest af. Og Nogle af de titler jeg som Sci Fi elsker er allermest vild med.",
     "format": "Foredrag",
     "id": "Science Fiction i Romancer og Romancer i Science Fiction",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -899,11 +924,11 @@
   },
   {
     "date": "2026-06-06",
-    "desc": "Speddate en bog: Vi mødes og anbefaler bøger vi elsker til hinanden.. Du fortæller om en elsket bog til en anden og de fortæller dig om deres yndlingsbog. Når fløjten lyder  skifter alle til en anden partner og snakken starter forfra.",
+    "desc": "Danish or English\nWe meet up and recommend books we love to each other. You tell someone else about your book, and they tell you about theirs. When the whistle sounds we switch partners, and start back up. ",
     "format": "Publikumsaktivitet",
-    "id": "Speeddate en bog",
+    "id": "Speed date a book",
     "loc": [
-      "Mødelokale (2. sal)"
+      "Mødelokale (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -920,7 +945,7 @@
       }
     ],
     "time": "15:00",
-    "title": "Speeddate en bog"
+    "title": "Speed date a book"
   },
   {
     "date": "2026-06-07",
@@ -928,7 +953,7 @@
     "format": "Panel",
     "id": "State of the Union: European Fantastical Litterature",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -1006,7 +1031,7 @@
     "format": "Panel",
     "id": "Vi🫀Horror",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -1039,7 +1064,7 @@
     "format": "Interview",
     "id": "Vølvens Vej - Interview med Anne-Marie Vedsø Olsen",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -1068,7 +1093,7 @@
     "format": "Panel",
     "id": "We ❤️ Fantasy",
     "loc": [
-      "Lille sal (Stuen)"
+      "Twilight (Stuen)"
     ],
     "mins": "45",
     "people": [

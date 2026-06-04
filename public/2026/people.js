@@ -68,6 +68,10 @@
     "name": "Jasmin Hansen"
   },
   {
+    "id": "Jasmin Hansen & Knud Larn",
+    "name": "Jasmin Hansen & Knud Larn"
+  },
+  {
     "id": "Jesper Rugård",
     "name": "Jesper Rugård"
   },
@@ -110,6 +114,10 @@
   {
     "id": "Pernille Lykke",
     "name": "Pernille Lykke"
+  },
+  {
+    "id": "Rene Roar Thygesen",
+    "name": "Rene Roar Thygesen"
   },
   {
     "id": "Sally A. Ward",
