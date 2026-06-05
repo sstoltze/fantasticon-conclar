@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-06-07",
-    "desc": "Hvordan fanger man det originale værk og hvad vælger man fra og til. Kan det blive bedre af at komme længere væk?",
+    "desc": "\nAdaptations are everywhere nowadays with varying results. Most of us have had the terrible experience of seeing a beloved book made into a horrible movie, but why is it so hard to make a good adaptation when the source material should have provided the writers with a clear path? And why is it that sometimes a story becomes even better when it’s been adapted into another medium? Does everything need to be exactly as it happened in the original story or can diverging from the source material actually elevate it? And can a movie be a “bad” adaptation but still an excellent movie? Find out at this panel where we talk about what makes a good adaptation and what makes a horrible one. ",
     "format": "Panel",
     "id": "Adaptations - from one medium to another",
     "loc": [
@@ -38,7 +38,7 @@
     "format": "Panel",
     "id": "Ask me anything - with the guests of honour",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -100,7 +100,7 @@
     "format": "",
     "id": "Auction",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -169,7 +169,7 @@
     "format": "",
     "id": "Dead Dog Party",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "240",
     "people": [],
@@ -219,7 +219,7 @@
     "format": "",
     "id": "Doors open",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "60",
     "people": [],
@@ -244,7 +244,7 @@
     "format": "",
     "id": "Doors open",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -269,7 +269,7 @@
     "format": "",
     "id": "Farvel og tak - fra alle os",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -289,7 +289,7 @@
     "format": "Panel",
     "id": "Gross Love - love in horror",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -322,7 +322,7 @@
     "format": "",
     "id": "How to Marry A Witch",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "90",
     "people": [
@@ -351,7 +351,7 @@
     "format": "Panel",
     "id": "Hugo Nominees 2026",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -433,7 +433,7 @@
     "format": "Interview",
     "id": "Interview with Chris Beckett",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -462,7 +462,7 @@
     "format": "Interview",
     "id": "Interview with Eugenia Triantafyllou",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -491,7 +491,7 @@
     "format": "Interview",
     "id": "Interview with Sarah Pinsker",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -520,7 +520,7 @@
     "format": "Publikumsaktivitet",
     "id": "Kaffeeklatsch with Chris Beckett",
     "loc": [
-      "Mødelokale (Stuen)"
+      "Heartfire (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -545,7 +545,7 @@
     "format": "",
     "id": "Kaffeeklatsch with Eugenia Triantafyllou",
     "loc": [
-      "Mødelokale (Stuen)"
+      "Heartfire (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -570,7 +570,7 @@
     "format": "",
     "id": "Kaffeeklatsch with Sarah Pinsker",
     "loc": [
-      "Mødelokale (Stuen)"
+      "Heartfire (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -696,7 +696,7 @@
     "format": "Publikumsaktivitet",
     "id": "Møde mellem fans - mød en ny ven",
     "loc": [
-      "Mødelokale (Stuen)"
+      "Heartfire (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -774,7 +774,7 @@
     "format": "Panel",
     "id": "Octavia E. Butler: Love, Power, Sex, and Addiction",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -807,7 +807,7 @@
     "format": "Panel",
     "id": "On Writing Romantasy",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -840,7 +840,7 @@
     "format": "",
     "id": "Restaurant MOSOB",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -932,7 +932,7 @@
     "format": "Publikumsaktivitet",
     "id": "Speed date a book",
     "loc": [
-      "Mødelokale (Stuen)"
+      "Heartfire (Stuen)"
     ],
     "mins": "45",
     "people": [],
@@ -1002,7 +1002,7 @@
     "format": "Panel",
     "id": "The Arthurian Myths",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -1130,7 +1130,7 @@
     "format": "Panel",
     "id": "We ❤️ Science fiction",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
@@ -1163,7 +1163,7 @@
     "format": "",
     "id": "Welcome and presentation of our guests of honour",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [],
@@ -1183,7 +1183,7 @@
     "format": "Workshop",
     "id": "Workshop: Reading Journals",
     "loc": [
-      "Mødelokale (Stuen)"
+      "Heartfire (Stuen)"
     ],
     "mins": "45",
     "people": [
@@ -1208,7 +1208,7 @@
     "format": "",
     "id": "Worldbuilding in short fiction",
     "loc": [
-      "Store sal (3. sal)"
+      "Frejas sal (3. sal)"
     ],
     "mins": "45",
     "people": [
