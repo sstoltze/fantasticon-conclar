@@ -840,7 +840,7 @@
     "format": "",
     "id": "Restaurant MOSOB",
     "loc": [
-      "Frejas sal (3. sal)"
+      "Restaurant"
     ],
     "mins": "45",
     "people": [],
